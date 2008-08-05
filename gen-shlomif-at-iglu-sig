@@ -1,0 +1,45 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use IO::All;
+
+my $sig = io()->file($ENV{HOME}."/.signature")->slurp();
+
+my ($quote) = ($sig =~ m{(([^\n]*\w[^\n]*\n)+)\z}ms);
+
+my @resource_lines =
+(
+    qq{Best Introductory Programming Language - http://xrl.us/bjn84},
+    qq{First stop for Perl beginners - http://perl-begin.org/},
+    qq{Funny Anti-Terrorism Story - http://xrl.us/bjn7t}, # The Enemy and How I Helped to Fight it.
+    qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
+    qq{"Humanity" - Parody of Modern Life - http://xrl.us/bkeut},
+    qq{Interview with Ben Collins-Sussman - http://xrl.us/bjn8s},
+    qq{My Aphorisms - http://www.shlomifish.org/humour.html},
+    qq{Original Riddles - http://www.shlomifish.org/puzzles/},
+    qq{Parody on "The Fountainhead" - http://xrl.us/bjria},
+    qq{Rethinking CPAN - http://xrl.us/bjn7p},
+    qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
+    qq{"Star Trek: We, the Living Dead" - http://xrl.us/omqz4},
+    qq{The Case for File Swapping - http://xrl.us/bjn7i},
+    qq{"The Human Hacking Field Guide" - http://xrl.us/bjn8q},
+    qq{Understand what Open Source is - http://xrl.us/bjn82},
+    qq{What does "Zionism" mean? - http://xrl.us/bjn8u},
+    qq{What Makes Software Apps High Quality -  http://xrl.us/bkeuk},
+    qq{Why I Love Perl - http://xrl.us/bjn88},
+);
+
+my $line = $resource_lines[rand(@resource_lines)];
+
+my $text = <<"EOF";
+-----------------------------------------------------------------
+Shlomi Fish       http://www.shlomifish.org/
+$line
+
+$quote
+EOF
+
+chomp($text);
+print $text;
