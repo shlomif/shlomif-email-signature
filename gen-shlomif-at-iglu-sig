@@ -11,26 +11,26 @@ my ($quote) = ($sig =~ m{(([^\n]*\w[^\n]*\n)+)\z}ms);
 
 my @resource_lines =
 (
-    qq{Best Introductory Programming Language - http://xrl.us/bjn84},
+    qq{Best Introductory Programming Language - http://shlom.in/intro-lang},
     qq{First stop for Perl beginners - http://perl-begin.org/},
     qq{Freecell Solver - http://fc-solve.berlios.de/},
-    qq{Funny Anti-Terrorism Story - http://xrl.us/bjn7t}, # The Enemy and How I Helped to Fight it.
+    qq{Funny Anti-Terrorism Story - http://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
-    qq{"Humanity" - Parody of Modern Life - http://xrl.us/bkeut},
-    qq{Interview with Ben Collins-Sussman - http://xrl.us/bjn8s},
+    qq{"Humanity" - Parody of Modern Life - http://shlom.in/humanity},
+    qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
     qq{My Aphorisms - http://www.shlomifish.org/humour.html},
     qq{Original Riddles - http://www.shlomifish.org/puzzles/},
-    qq{Optimizing Code for Speed - http://xrl.us/begfgk},
-    qq{Parody on "The Fountainhead" - http://xrl.us/bjria},
-    qq{Rethinking CPAN - http://xrl.us/bjn7p},
+    qq{Optimising Code for Speed - http://shlom.in/optimise},
+    qq{Parody on "The Fountainhead" - http://shlom.in/towtf},
+    qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
     qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
-    qq{"Star Trek: We, the Living Dead" - http://xrl.us/omqz4},
-    qq{The Case for File Swapping - http://xrl.us/bjn7i},
-    qq{"The Human Hacking Field Guide" - http://xrl.us/bjn8q},
-    qq{Understand what Open Source is - http://xrl.us/bjn82},
-    qq{What does "Zionism" mean? - http://xrl.us/bjn8u},
-    qq{What Makes Software Apps High Quality -  http://xrl.us/bkeuk},
-    qq{Why I Love Perl - http://xrl.us/bjn88},
+    qq{"Star Trek: We, the Living Dead" - http://shlom.in/st-wtld},
+    qq{The Case for File Swapping - http://shlom.in/file-swap},
+    qq{"The Human Hacking Field Guide" - http://shlom.in/hhfg},
+    qq{Understand what Open Source is - http://shlom.in/oss-fs},
+    qq{What does "Zionism" mean? - http://shlom.in/def-zionism},
+    qq{What Makes Software Apps High Quality -  http://shlom.in/sw-quality},
+    qq{Why I Love Perl - http://shlom.in/joy-of-perl},
 );
 
 my $line = $resource_lines[rand(@resource_lines)];
