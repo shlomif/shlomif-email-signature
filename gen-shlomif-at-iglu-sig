@@ -32,6 +32,7 @@ my @resource_lines =
     qq{What does "Zionism" mean? - http://shlom.in/def-zionism},
     qq{What Makes Software Apps High Quality -  http://shlom.in/sw-quality},
     qq{Why I Love Perl - http://shlom.in/joy-of-perl},
+    qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
 );
 
 my $line = $resource_lines[rand(@resource_lines)];
