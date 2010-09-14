@@ -11,7 +11,9 @@ my ($quote) = ($sig =~ m{(([^\n]*\w[^\n]*\n)+)\z}ms);
 
 my @resource_lines =
 (
+    qq{Apple Inc. is Evil - http://www.shlomifish.org/open-source/anti/apple/},
     qq{Best Introductory Programming Language - http://shlom.in/intro-lang},
+    qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
     qq{First stop for Perl beginners - http://perl-begin.org/},
     qq{Freecell Solver - http://fc-solve.berlios.de/},
     qq{Funny Anti-Terrorism Story - http://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
@@ -32,7 +34,6 @@ my @resource_lines =
     qq{What does "Zionism" mean? - http://shlom.in/def-zionism},
     qq{What Makes Software Apps High Quality -  http://shlom.in/sw-quality},
     qq{Why I Love Perl - http://shlom.in/joy-of-perl},
-    qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
 );
 
 my $line = $resource_lines[rand(@resource_lines)];
