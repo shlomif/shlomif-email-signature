@@ -26,7 +26,7 @@ my @resource_lines =
     qq{My Favourite FOSS - http://www.shlomifish.org/open-source/favourite/},
     qq{Original Riddles - http://www.shlomifish.org/puzzles/},
     qq{Optimising Code for Speed - http://shlom.in/optimise},
-    qq{Parody on "The Fountainhead" - http://shlom.in/towtf},
+    qq{Parody of "The Fountainhead" - http://shlom.in/towtf},
     qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
     qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
     qq{"Star Trek: We, the Living Dead" - http://shlom.in/st-wtld},
