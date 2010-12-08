@@ -33,6 +33,7 @@ my @resource_lines =
     qq{The Case for File Swapping - http://shlom.in/file-swap},
     qq{"The Human Hacking Field Guide" - http://shlom.in/hhfg},
     qq{Understand what Open Source is - http://shlom.in/oss-fs},
+    qq{UNIX Fortune Cookies - http://www.shlomifish.org/humour/fortunes/},
     qq{What does "Zionism" mean? - http://shlom.in/def-zionism},
     qq{What Makes Software Apps High Quality -  http://shlom.in/sw-quality},
     qq{Why I Love Perl - http://shlom.in/joy-of-perl},
