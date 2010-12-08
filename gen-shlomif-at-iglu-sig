@@ -16,6 +16,7 @@ my @resource_lines =
     qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
     qq{First stop for Perl beginners - http://perl-begin.org/},
     qq{Freecell Solver - http://fc-solve.berlios.de/},
+    qq{Chuck Norris/etc. Facts - http://www.shlomifish.org/humour/bits/facts/},
     qq{Funny Anti-Terrorism Story - http://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
     qq{"Humanity" - Parody of Modern Life - http://shlom.in/humanity},
