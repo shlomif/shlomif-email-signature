@@ -298,3 +298,64 @@ Duplicate effort in FOSS is inevitable. Live with it.
 %
 The number of items on an open-source project's to-do list always grows or
 remains constant.
+%
+<rindolf> buu: do you have a functional spec? An architecture document? An 
+interface whitepaper? A developer's guide? A user manual? A "The BL-Book" and 
+"BL - The Program"?
+<buu> rindolf: no, no, no no and no
+%
+<mst> I find it's usually safe to assume that whatver shlomif's doing, there
+isn't a good reason for it.
+%
+Become an awesome Perl ninja rockstar vampire zombie pirate.
+%
+<PerlJam> I'm trying to achieve world peace and this regex is the last thing
+standing in my way! ;)
+%
+<rindolf> "be here or be not here - there is no maybe"
+%
+<rindolf>  If you repeat a scene 50k times, then the movie will have less 
+entropy and will compress better. ( irc://irc.freenode.org/#perlcafe )
+%
+Modern Perl - the 3-D Movie. In theatres near you.
+%
+<rindolf> I am not solvable. I am Turing hard.
+%
+<rjbs> sub id { my $self = shift; $json_parser_for{ $self }
+    ->decode($json_for{ $self })->{id} } # Inside-out JSON-notated objects
+%
+I started out as a BASIC programmer. Some people would say that I'm 
+permanently damaged. Some people are undoubtedly right.
+    -- Larry Wall
+%
+bzr is slower than Subversion in combination with Sourceforge.
+-- Sjors, http://dazjorz.com/
+%
+There is no IGLU Cabal! Its members can be arranged in N! orders to form N!
+different Cabals. The algorithm to find which order formulates the correct
+IGLU Cabal is NP-Complete.
+%
+There is no IGLU Cabal. The problem of founding an IGLU Cabal has been proven,
+in a surprise move, to be equivalent to the question of existence of God,
+fully-tolerant religions and NP-complete oracles. -- Omer Zak
+%
+There is no IGLU Cabal! Home-made Cabals eventually superceded the power and
+influence of the original IGLU Cabal, which was considered a cutting edge
+development at its time.
+%
+There is an IGLU Cabal, but its only purpose is to deny the existence of an
+IGLU Cabal. -- Martha Greenberg
+%
+There is no IGLU cabal! The former cabalists are trying to prove the
+correctness of a program that proves the correctness of proofs of other
+programs.
+%
+My Commodore 64 is suffering from slowness and insufficiency of memory; and its display device is grievously short of pixels.  Can anyone help?	-- Omer Zak
+%
+I hope that you agree with me that 99.9218485921% of the users wouldn't bother
+themselves with recompilation (or any other manual step for that matter) to
+make their games run 1.27127529900685765% faster ;-) -- Nadav Har'El
+%
+I also have versions of this code in COBOL.NET, Intercal, PDP-10 Assembly, J,
+APL, Windows NT 4.0 Batch script and Autocad Lisp - I'm sure you can handle
+all of them because none of them is Perl. ;-).
