@@ -5,9 +5,13 @@ use warnings;
 
 use IO::All;
 
+use File::Spec::Functions qw( catpath splitpath rel2abs );
+
+my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
+
 my $sig = io()->file($ENV{HOME}."/.signature")->slurp();
 
-my ($quote) = ($sig =~ m{(([^\n]*\w[^\n]*\n)+)\z}ms);
+# my ($quote) = ($sig =~ m{(([^\n]*\w[^\n]*\n)+)\z}ms);
 
 my @resource_lines =
 (
@@ -42,12 +46,22 @@ my @resource_lines =
 
 my $line = $resource_lines[rand(@resource_lines)];
 
+my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sigs")->slurp;
+
+my @quotes = grep { /\S/ } split(/^\s*%\s*$/ms, $quotes_text);
+
+my $quote = $quotes[rand(scalar(@quotes))];
+
+$quote =~ s{\s+\z}{}ms;
+$quote =~ s{\A\s+}{}ms;
+
 my $text = <<"EOF";
 -----------------------------------------------------------------
 Shlomi Fish       http://www.shlomifish.org/
 $line
 
 $quote
+
 Please reply to list if it's a mailing list post - http://shlom.in/reply .
 EOF
 
