@@ -351,7 +351,7 @@ correctness of a program that proves the correctness of proofs of other
 programs.
 %
 My Commodore 64 is suffering from slowness and insufficiency of memory; and its
-display device is grievously short of pixels.  Can anyone help?	-- Omer Zak
+display device is grievously short of pixels.  Can anybody help? -- Omer Zak
 %
 I hope that you agree with me that 99.9218485921% of the users wouldn't bother
 themselves with recompilation (or any other manual step for that matter) to
@@ -379,3 +379,12 @@ busy.
 Katie: in case you have any interest in me, I should note that I have a policy 
 against getting involved with people who are 4 times my senior or more.
     -- Star Trek, "We, the Living Dead" by Shlomi Fish
+%
+When Chuck Norris uses git, he takes a coffee break after initiating every git 
+commit. And then he waits for the commit to finish.
+%
+Chuck Norris has actually been using Perl 6 since 1987, and has been waiting
+for Larry to play catch-up. (dukeleto) 
+%
+Chuck Norris does not code; when he sits at a computer, it just does whatever
+he wants. -- Kattana on Freenode's #perl6 .
