@@ -350,7 +350,7 @@ There is no IGLU cabal! The former cabalists are trying to prove the
 correctness of a program that proves the correctness of proofs of other
 programs.
 %
-My Commodore 64 is suffering from slowness and insufficiency of memory; and its
+My Commodore 64 is suffering from slowness and insufficiency of memory, and its
 display device is grievously short of pixels.  Can anybody help? -- Omer Zak
 %
 I hope that you agree with me that 99.9218485921% of the users wouldn't bother
@@ -441,3 +441,5 @@ Sesquipedallianism: making excessive use of long words.
 Learn Perl from "Learning Perl in 24 Minutes Unleashed, in a Nutshell for 
 Dummies."
     -- based on Shlomi Fish and f00li5h on #perl
+%
+A golfed Java program will be longer than non-golf Perl or Python code.
