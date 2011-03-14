@@ -456,3 +456,7 @@ The cool thing about Vim is - you find something interesting with every typo.
 %
 Larry Wall *does* know all of Perl. However, he pretends to be wrong
 or misinformed, so people will underestimate him.
+%
+Real programmers use a nice editor and a nice programming language and get it
+done in less than O(N!).
+    -- vanguard on Freenode's ##programming
