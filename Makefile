@@ -9,5 +9,5 @@ $(DEST): $(SRC)
 	cp -f $< $@
 
 upload:
-	rsync -a --progress --verbose shlomif-sigs "$${__HOMEPAGE_REMOTE_PATH}"/signature-quotes-moy/
+	rsync -a --progress --verbose shlomif-sig-quotes "$${__HOMEPAGE_REMOTE_PATH}"/signature-quotes-moy/
 

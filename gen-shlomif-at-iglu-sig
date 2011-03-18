@@ -46,7 +46,7 @@ my @resource_lines =
 
 my $line = $resource_lines[rand(@resource_lines)];
 
-my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sigs")->slurp;
+my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sig-quotes")->slurp;
 
 my @quotes = grep { /\S/ } split(/^(?:\s+\n)*%(?:\s+\n)*$/ms, $quotes_text);
 
