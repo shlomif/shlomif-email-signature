@@ -52,8 +52,8 @@ my @quotes = grep { /\S/ } split(/^\n*%\n*$/ms, $quotes_text);
 
 my $quote = $quotes[rand(scalar(@quotes))];
 
-$quote =~ s{\s+\z}{}ms;
-$quote =~ s{\A\s+}{}ms;
+$quote =~ s{\n+\z}{}ms;
+$quote =~ s{\A\n+}{}ms;
 
 my $text = <<"EOF";
 -----------------------------------------------------------------
@@ -66,4 +66,6 @@ Please reply to list if it's a mailing list post - http://shlom.in/reply .
 EOF
 
 chomp($text);
+
+binmode STDOUT, ":utf8";
 print $text;
