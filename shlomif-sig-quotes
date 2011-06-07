@@ -569,3 +569,10 @@ In Soviet Russia, cats own you. No, wait! Cats own you everywhere.
 E-mail, web feeds, and doing something productive - choose two.
 %
 The worst way to waste your time is to never waste it.
+%
+Writing a BitKeeper replacement is probably easier at this point than getting 
+its license changed.
+    -- Matt Mackall (who ended up writing a BitKeeper replacement)
+%
+<danderson> “We are NO LONGER the knights who say ‘BitKeeper’. We are now 
+the knights who say ‘git, git, git, cogito — Linus!’.”
