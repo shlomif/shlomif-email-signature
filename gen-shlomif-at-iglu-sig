@@ -65,7 +65,5 @@ $quote
 Please reply to list if it's a mailing list post - http://shlom.in/reply .
 EOF
 
-chomp($text);
-
 binmode STDOUT, ":utf8";
 print $text;
