@@ -7,18 +7,18 @@ statement that follows it into a true one.
 I used to be arrogant. Now I’m simply Perfect.
     — one of Shlomi Fish’s relatives.
 %
-Microsoft - making it all make sense. Ours.
+Microsoft — making it all make sense. Ours.
 %
-Linux - Because Software Problems Should not Cost Money.
+Linux — Because Software Problems Should not Cost Money.
 %
-The American Lottery - all you need is a dollar and a dream. We will take the
+The American Lottery: all you need is a dollar and a dream. We will take the
 dollar, but you can keep the dream.
 %
 Judaism: God knows you will do shit, does nothing to prevent it, but makes you
 take the blame for it anyways.
 %
-Judaism: God is all the shit, all the non-shit and all the intermediate
-demi-shits in between.
+Judaism: God is all the shit, all the non‐shit and all the intermediate
+demi‐shits in between.
 %
 Oh! I wish you could see the look on his face! Actually, I would have also
 liked to see the look on his face, but just then I woke up from the dream.
@@ -42,7 +42,7 @@ will not lead you to his homepage.
 %
 Knuth is not God! Unless you confuse him with Dijkstra.
 %
-C++ supports Object-Oriented Programming roughly as much as COBOL supports
+C++ supports Object‐Oriented Programming roughly as much as COBOL supports
 Functional Programming.
 %
 I hope that if it had not been clear before, it isn’t less clear now.
@@ -69,13 +69,13 @@ imaginary bugs in the “Hello World” program.
 %
 Hacker sees bug. Hacker does not want bug. Hacker fixes bug.
 %
-Tcl is Lisp on drugs. Using strings instead of S-expressions for closures is
+Tcl is Lisp on drugs. Using strings instead of S‐expressions for closures is
 Evil with one of those gigantic E’s you can find at the beginning of chapters.
 %
 95% of Programmers consider 95% of the code they did not write, in the bottom
 5%.
 %
-No self-respecting tomboy would use Mandriva.
+No self‐respecting tomboy would use Mandriva.
 %
 C++ is complex, complexifying and complexified.
 (With apologies to the Oxford English Dictionary).
@@ -88,11 +88,11 @@ The first phrase that need to be taught when teaching a new language is how to
 say “Do you speak English?”. The first thing that needs to be taught when
 teaching a new computer tool is how to exit it.
 %
-He who re-invents the wheel, will understand much better how a wheel works.
+He who reinvents the wheel, will understand much better how a wheel works.
 %
-He who re-invents the wheel, may actually invent a much better wheel.
+He who reinvents the wheel, may actually invent a much better wheel.
 %
-He who re-invents the wheel will likely design a square wheel and spend a year
+He who reinvents the wheel will likely design a square wheel and spend a year
 trying to figure out why it doesn’t work properly. 
     — Nadav Har’El
 %
@@ -144,12 +144,12 @@ Larry Wall has more dollars in the bank than in his Perl code.
 Electrical Engineering studies. In the Technion. Been there. Done that. Forgot
 a lot. Remember too much.
 %
-I’m not an actor - I just play one on T.V.
+I’m not an actor — I just play one on T.V.
 %
 Trying to block Internet pornography is like climbing a waterfall and trying
 to stay dry. (— one of Shlomi Fish’s Internet Friends)
 %
-“I’m not straight - I’m Israeli.”
+“I’m not straight — I’m Israeli.”
 %
 It does not mean what I think it means, but it means what *you* think it
 means.
@@ -166,7 +166,7 @@ Nobody expects the Randal Schwartz condition!
     — David Fetter
 %
 I often wonder why I hang out with so many people who are so pedantic. And
-then I remember - because they are so pedantic.
+then I remember — because they are so pedantic.
     — an Israeli Perl Monger
 %
 Ran Eilam To Shlomi Fish: so what are you working on? Working on a new wiki
@@ -201,10 +201,10 @@ English spelling aims to be consistent. Publicly and methodically.
 %
 COBOL is the old Java.
 %
-You name it - COBOL does not have it.
+You name it — COBOL does not have it.
 %
 Chuck Norris wrote a complete Perl 6 implementation in a day, but then
-destroyed all evidence with his bare hands, so no-one will know his secrets.
+destroyed all evidence with his bare hands, so no‐one will know his secrets.
 %
 Chuck Norris refactors 10 million lines of Perl code before lunch.
 %
@@ -216,7 +216,7 @@ Chuck Norris read the entire English Wikipedia in 24 hours. Twice.
 Chuck Norris does not code; when he sits at a computer, it just does whatever
 he wants. (By: Kattana.)
 %
-Chuck Norris doesn’t make mistakes. (Su-Shee) He corrects God. (Shlomi Fish)
+Chuck Norris doesn’t make mistakes. (Su‐Shee) He corrects God. (Shlomi Fish)
 %
 Chuck Norris is the ghost author of the entire Debian GNU/Linux distribution.
 And he wrote it in 24 hours, while taking snack breaks.
@@ -253,7 +253,7 @@ could ever pose a competition.
 %
 Chuck Norris can make the statement “This statement is false.” a true one.
 %
-XSLT is the worst thing since non-sliced bread.
+XSLT is the worst thing since non‐sliced bread.
 %
 Mothers used to tell their children stories about XSLT to scare them.
 %
@@ -261,7 +261,7 @@ XSLT is the number one cause of programmers’ suicides since Visual Basic 1.0.
 %
 The X in XSLT stands for eXtermination.
 %
-The only things worse than XSLT are Excel and Sugar-Less Tea (XSLT).
+The only things worse than XSLT are Excel and Sugar‐Less Tea (XSLT).
 %
 XSLT is what Chuck Norris has nightmares of.
 %
@@ -295,16 +295,16 @@ When a FLOSS developer says they will work on something, he or she means
 * Backward compatibility is your worst enemy.
 * Backward compatibility is your users’ best friend.
 %
-Every successful open-source project will eventually spawn a sub-project.
+Every successful open source project will eventually spawn a sub‐project.
 %
 Duplicate effort in FOSS is inevitable. Live with it.
 %
-The number of items on an open-source project’s to-do list always grows or
+The number of items on an open source project’s to‐do list always grows or
 remains constant.
 %
 <rindolf> buu: do you have a functional spec? An architecture document? An 
-interface whitepaper? A developer’s guide? A user manual? A “The BL-Book” and 
-“BL - The Program”?
+interface whitepaper? A developer’s guide? A user manual? A “The BL Book” and 
+“BL — The Program”?
 <buu> rindolf: no, no, no no and no
 %
 <mst> I find it’s usually safe to assume that whatever shlomif’s doing, there
@@ -315,17 +315,17 @@ Become an awesome Perl ninja rockstar vampire zombie pirate.
 <PerlJam> I’m trying to achieve world peace and this regex is the last thing
 standing in my way! ;)
 %
-<rindolf> “be here or be not here - there is no maybe”
+<rindolf> “be here or be not here — there is no maybe.”
 %
 <rindolf>  If you repeat a scene 50k times, then the movie will have less 
 entropy and will compress better. ( irc://irc.freenode.org/#perlcafe )
 %
-Modern Perl - the 3-D Movie. In theatres near you.
+Modern Perl — the 3‐D Movie. In theatres near you.
 %
 <rindolf> I am not solvable. I am Turing hard.
 %
 <rjbs> sub id { my $self = shift; $json_parser_for{ $self }
-    ->decode($json_for{ $self })->{id} } # Inside-out JSON-notated objects
+    ->decode($json_for{ $self })->{id} } # Inside‐out JSON‐notated objects
 %
 I started out as a BASIC programmer. Some people would say that I’m 
 permanently damaged. Some people are undoubtedly right.
@@ -336,13 +336,13 @@ bzr is slower than Subversion in combination with Sourceforge.
 %
 There is no IGLU Cabal! Its members can be arranged in N! orders to form N!
 different Cabals. The algorithm to find which order formulates the correct
-IGLU Cabal is NP-Complete.
+IGLU Cabal is NP‐Complete.
 %
 There is no IGLU Cabal. The problem of founding an IGLU Cabal has been proven,
 in a surprise move, to be equivalent to the question of existence of God,
-fully-tolerant religions and NP-complete oracles.   — Omer Zak
+fully‐tolerant religions and NP‐complete oracles.   — Omer Zak
 %
-There is no IGLU Cabal! Home-made Cabals eventually superceded the power and
+There is no IGLU Cabal! Home‐made Cabals eventually superseded the power and
 influence of the original IGLU Cabal, which was considered a cutting edge
 development at its time.
 %
@@ -362,8 +362,8 @@ I hope that you agree with me that 99.9218485921% of the users wouldn’t bother
 themselves with recompilation (or any other manual step for that matter) to
 make their games run 1.27127529900685765% faster ;-) — Nadav Har’El
 %
-I also have versions of this code in COBOL.NET, Intercal, PDP-10 Assembly, J,
-APL, Windows NT 4.0 Batch script and Autocad Lisp - I’m sure you can handle
+I also have versions of this code in COBOL.NET, Intercal, PDP‐10 Assembly, J,
+APL, Windows NT 4.0 Batch script and Autocad Lisp — I’m sure you can handle
 all of them because none of them is Perl. ;-).
 %
 Dax: yep, space. Nothing but nothing all around.
@@ -389,7 +389,7 @@ When Chuck Norris uses git, he takes a coffee break after initiating every git
 commit. And then he waits for the commit to finish.
 %
 Chuck Norris has actually been using Perl 6 since 1987, and has been waiting
-for Larry to play catch-up. (dukeleto) 
+for Larry to play catch‐up. (dukeleto) 
 %
 Chuck Norris does not code; when he sits at a computer, it just does whatever
 he wants. — Kattana on Freenode’s #perl6 .
@@ -404,7 +404,7 @@ Chuck Norris writes understandable Perl code.
 Chuck Norris can read Perl code that was RSA encrypted.
 %
 If you have the same ideas as everybody else, but have them one week earlier
-than everyone else - then you will be hailed as a visionary. But if you have
+than everyone else — then you will be hailed as a visionary. But if you have
 them five years earlier, you will be named a lunatic. ( Barry Jones )
 %
 Live as if you were to die tomorrow. Learn as if you were to live forever.
@@ -438,7 +438,7 @@ with ketchup.                                       — Unknown source.
 In Soviet Russia, every time you kill a kitten, God masturbates.
     — http://linux.slashdot.org/comments.pl?sid=195378&cid=16009070
 %
-Tel Aviv - a functional definition: free parking space-free space.
+Tel Aviv, a functional definition: free parking space‐free space.
     — Shachar Shemesh ( http://blog.shemesh.biz/?p=435 )
 %
 Sesquipedallianism: making excessive use of long words.
@@ -447,17 +447,17 @@ Learn Perl from “Learning Perl in 24 Minutes Unleashed, in a Nutshell for
 Dummies.”
     — based on Shlomi Fish and f00li5h on #perl
 %
-A golfed Java program will be longer than non-golf Perl or Python code.
+A golfed Java program will be longer than non‐golf Perl or Python code.
 %
 “We’re not doing it for money… we’re doing it for a shitload of money!”
     — Spaceballs, http://www.imdb.com/title/tt0094012/
 %
-Lone Starr: “Just what we need - a Druish princess.”
+Lone Starr: “Just what we need — a Druish princess.”
 Barf: “Funny! She doesn’t look Druish.”
     — Spaceballs, http://www.imdb.com/title/tt0094012/
 %
-The cool thing about Vim is - you find something interesting with every typo.
-    — Su-Shee on Freenode’s #perl .
+The cool thing about Vim is — you find something interesting with every typo.
+    — Su‐Shee on Freenode’s #perl .
 %
 Larry Wall *does* know all of Perl. However, he pretends to be wrong
 or misinformed, so people will underestimate him.
@@ -467,7 +467,7 @@ done in less than O(N!).
     — vanguard on Freenode’s ##programming
 %
 Bill Gates, CEO of Microsoft decides to use Richard Stallman’s Emacs as the
-basis of his company’s state-of-the-art product Microsoft Editing Macros™
+basis of his company’s state‐of‐the‐art product Microsoft Editing Macros™
 Enterprise Edition XP .NET Professional.
 %
 JATFM == “Just answer the fabulous man”
@@ -501,21 +501,21 @@ Real men don’t listen to sentences that start with “Real men don’t”.
 <ew73>  VB.NET is all of the fun of enforced privacy OO with all of the power
 of BASIC.           — Freenode’s #perl
 %
-I invented the term Object-Oriented, and I can tell you I did not have C++ in
+I invented the term Object‐Oriented, and I can tell you I did not have C++ in
 mind.                  — Alan Kay (Attributed)
 %
 I’d love to change the world, but they won’t give me the source code.
     — Unknown
 %
 He says “One and one and one is three”.
-Got to be good-looking ’cause he’s so hard to see.
+Got to be good‐looking ’cause he’s so hard to see.
     — The Beatles, “Come Together”
 %
-Larry Wall’s pure-Perl code is faster than Assembly.
+Larry Wall’s pure‐Perl code is faster than Assembly.
 %
 Chuck Norris once wrote a 10 million lines C++ program in Microsoft Notepad
 without having to use the backspace key. And it compiled without errors or
-warnings, and was 100% bug-free.
+warnings, and was 100% bug‐free.
 %
 Larry Wall has been changing the world. By modifying its very source code.
 %
@@ -526,18 +526,18 @@ A kid always wishes they were older until they are 18. Afterwards, they always
 wish they were younger.
 %
 Sophie: Let’s suppose you have a table with 2^n cups…
-Jack: Wait a second - is ‘n’ a natural number?
+Jack: Wait a second! Is ‘n’ a natural number?
 %
-If God exists and is the ego-maniacal, sadistic and helpless creature that is
+If God exists and is the ego‐maniacal, sadistic and helpless creature that is
 described in the Old Testament, then we’re in deep trouble.
 %
 I might be mad. But I’m a mad genius.
 %
-To err is human; to apologise - divine.
+To err is human; to apologise — divine.
 %
-To have bugs is human; to fix them - divine.
+To have bugs is human; to fix them — divine.
 %
-To have bugs is human; to find them - divine.
+To have bugs is human; to find them — divine.
 %
 An original philosopher knows the right combination of ideas to steal.
 %
@@ -548,8 +548,8 @@ mplayer 0.9.999.2010.03.11-rc5-adc83b19e793491b1c6ea0fd8b46cd9f32e592fc now
 available for download.
     — Shlomi Fish and d3x.
 %
-I may be a geek, but I’m a true Klingon geek-warrior! And a true Klingon geek
-warrior ALWAYS bottom-posts.
+I may be a geek, but I’m a true Klingon geek‐warrior! And a true Klingon geek
+warrior ALWAYS bottom‐posts.
 %
 Shlomi: if you read my stories, I’ll give you 1,000,000 virtual dollars.
 Sjors: causing me to have a lot of extra virtual time!
@@ -563,14 +563,14 @@ Xena the warrior princess can meet King David for breakfast and Julius Caesar
 for lunch. Without time travel.
 %
 No one calls Xena the warrior princess “Zeena” to her face and survives.
-Luckily for you, she hasn’t visited the modern-day United States yet.
+Luckily for you, she hasn’t visited the modern day United States yet.
 %
 Beliefs are what divide people. Doubt unites them.
     — http://en.wikiquote.org/wiki/Peter_Ustinov
 %
 In Soviet Russia, cats own you. No, wait! Cats own you everywhere.
 %
-E-mail, web feeds, and doing something productive - choose two.
+E‐mail, web feeds, and doing something productive — choose two.
 %
 The worst way to waste your time is to never waste it.
 %
