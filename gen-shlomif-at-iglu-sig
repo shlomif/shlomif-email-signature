@@ -33,6 +33,7 @@ my @resource_lines =
     qq{Original Riddles - http://www.shlomifish.org/puzzles/},
     qq{Optimising Code for Speed - http://shlom.in/optimise},
     qq{Parody of "The Fountainhead" - http://shlom.in/towtf},
+    qq{Perl Humour - http://perl-begin.org/humour/},
     qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
     qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
     qq{"Star Trek: We, the Living Dead" - http://shlom.in/st-wtld},
