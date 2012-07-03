@@ -55,10 +55,10 @@ There’s no point in keeping an idea to yourself since there’s a 10 to 1 chan
 that somebody already has it and will share it before you.
 %
 An apple a day keeps the doctor away.
-Two apples a day will keep two doctors away. 
+Two apples a day will keep two doctors away.
     — one of Shlomi Fish’s relatives
 %
-“You are banished! You are banished! You are banished! 
+“You are banished! You are banished! You are banished!
 Hey! I’m just kidding!”
 %
 He has a high degree of idealism, a high degree of stubbornness, and an even
@@ -93,7 +93,7 @@ He who reinvents the wheel, will understand much better how a wheel works.
 He who reinvents the wheel, may actually invent a much better wheel.
 %
 He who reinvents the wheel will likely design a square wheel and spend a year
-trying to figure out why it doesn’t work properly. 
+trying to figure out why it doesn’t work properly.
     — Nadav Har’El
 %
 Sometimes you don’t need to be familiar with a better alternative to know that
@@ -122,7 +122,7 @@ email will conquer.
     — an Israeli Linuxer.
 %
 The bad thing about hardware is that it sometimes works and it sometimes
-doesn’t. The good thing about software is that it’s consistent: it always 
+doesn’t. The good thing about software is that it’s consistent: it always
 does not work, and it always does not work in exactly the same way.
 %
 Larry Wall can understand the Perl code he wrote last year.
@@ -302,8 +302,8 @@ Duplicate effort in FOSS is inevitable. Live with it.
 The number of items on an open source project’s to‐do list always grows or
 remains constant.
 %
-<rindolf> buu: do you have a functional spec? An architecture document? An 
-interface whitepaper? A developer’s guide? A user manual? A “The BL Book” and 
+<rindolf> buu: do you have a functional spec? An architecture document? An
+interface whitepaper? A developer’s guide? A user manual? A “The BL Book” and
 “BL — The Program”?
 <buu> rindolf: no, no, no no and no
 %
@@ -317,7 +317,7 @@ standing in my way! ;)
 %
 <rindolf> “be here or be not here — there is no maybe.”
 %
-<rindolf>  If you repeat a scene 50k times, then the movie will have less 
+<rindolf>  If you repeat a scene 50k times, then the movie will have less
 entropy and will compress better. ( irc://irc.freenode.org/#perlcafe )
 %
 Modern Perl — the 3‐D Movie. In theatres near you.
@@ -327,7 +327,7 @@ Modern Perl — the 3‐D Movie. In theatres near you.
 <rjbs> sub id { my $self = shift; $json_parser_for{ $self }
     ->decode($json_for{ $self })->{id} } # Inside‐out JSON‐notated objects
 %
-I started out as a BASIC programmer. Some people would say that I’m 
+I started out as a BASIC programmer. Some people would say that I’m
 permanently damaged. Some people are undoubtedly right.
     — Larry Wall
 %
@@ -347,7 +347,7 @@ influence of the original IGLU Cabal, which was considered a cutting edge
 development at its time.
 %
 There is an IGLU Cabal, but its only purpose is to deny the existence of an
-IGLU Cabal. 
+IGLU Cabal.
     — Martha Greenberg
 %
 There is no IGLU cabal! The former cabalists are trying to prove the
@@ -355,7 +355,7 @@ correctness of a program that proves the correctness of proofs of other
 programs.
 %
 My Commodore 64 is suffering from slowness and insufficiency of memory, and its
-display device is grievously short of pixels.  Can anybody help? 
+display device is grievously short of pixels.  Can anybody help?
     — Omer Zak
 %
 I hope that you agree with me that 99.9218485921% of the users wouldn’t bother
@@ -374,22 +374,22 @@ Q: I’ll be about 6.5 milliard Terran years next September.
 %
 Sisko: Q: would it be OK if my crew brought along their phasers with them?
 
-Q: Of course. They can also bring some photon torpedoes if they wish. None of 
+Q: Of course. They can also bring some photon torpedoes if they wish. None of
 them will work, but I don’t mind them taking them.
 %
-Q2: Busy people are unproductive. We are very productive and so we’re never 
+Q2: Busy people are unproductive. We are very productive and so we’re never
 busy.
     — Star Trek, “We, the Living Dead” by Shlomi Fish
 %
-Katie: in case you have any interest in me, I should note that I have a policy 
+Katie: in case you have any interest in me, I should note that I have a policy
 against getting involved with people who are 4 times my senior or more.
     — Star Trek, “We, the Living Dead” by Shlomi Fish
 %
-When Chuck Norris uses git, he takes a coffee break after initiating every git 
+When Chuck Norris uses git, he takes a coffee break after initiating every git
 commit. And then he waits for the commit to finish.
 %
 Chuck Norris has actually been using Perl 6 since 1987, and has been waiting
-for Larry to play catch‐up. (dukeleto) 
+for Larry to play catch‐up. (dukeleto)
 %
 Chuck Norris does not code; when he sits at a computer, it just does whatever
 he wants. — Kattana on Freenode’s #perl6 .
@@ -443,7 +443,7 @@ Tel Aviv, a functional definition: free parking space‐free space.
 %
 Sesquipedallianism: making excessive use of long words.
 %
-Learn Perl from “Learning Perl in 24 Minutes Unleashed, in a Nutshell for 
+Learn Perl from “Learning Perl in 24 Minutes Unleashed, in a Nutshell for
 Dummies.”
     — based on Shlomi Fish and f00li5h on #perl
 %
@@ -495,7 +495,7 @@ she said: “Is it something like Wikipedia?”.
 CPAN thrives *because* of the unfettered uploading of shit, not in spite of it.
     — Andy Lester
 %
-Real men don’t listen to sentences that start with “Real men don’t”. 
+Real men don’t listen to sentences that start with “Real men don’t”.
     — http://whatsup.org.il/article/6023
 %
 <ew73>  VB.NET is all of the fun of enforced privacy OO with all of the power
@@ -574,11 +574,11 @@ E‐mail, web feeds, and doing something productive — choose two.
 %
 The worst way to waste your time is to never waste it.
 %
-Writing a BitKeeper replacement is probably easier at this point than getting 
+Writing a BitKeeper replacement is probably easier at this point than getting
 its license changed.
     — Matt Mackall (who ended up writing a BitKeeper replacement)
 %
-<danderson> “We are NO LONGER the knights who say ‘BitKeeper’. We are now 
+<danderson> “We are NO LONGER the knights who say ‘BitKeeper’. We are now
 the knights who say ‘git, git, git, cogito — Linus!’.”
 %
 There was one Napoleon, one George Washington, and one me!
