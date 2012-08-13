@@ -185,7 +185,7 @@ http://en.wikipedia.org/wiki/Kitchen_sink .
 %
 *shlomif:* hack, hack, hack ; save ; make ; make test; commit. And start over.
 
-*mrjink:*hack, hack, hack; save; make; swear; fix typos; save; make; make
+*mrjink:* hack, hack, hack; save; make; swear; fix typos; save; make; make
 test; swear some more; hack some more; save; make; make test; cheer; commit.
 
 *meep:* hack, make, test, segfault, oh noes, revert to previous revision
