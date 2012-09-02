@@ -27,6 +27,7 @@ my @resource_lines =
     qq{"Humanity" - Parody of Modern Life - http://shlom.in/humanity},
     qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
     qq{List of Portability Libraries - http://shlom.in/port-libs},
+    qq{List of Text Editors and IDEs - http://shlom.in/IDEs},
     qq{My Aphorisms - http://www.shlomifish.org/humour.html},
     qq{My Public Domain Photos - http://www.flickr.com/photos/shlomif/},
     qq{My Favourite FOSS - http://www.shlomifish.org/open-source/favourite/},
