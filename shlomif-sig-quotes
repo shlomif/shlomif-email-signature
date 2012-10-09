@@ -696,5 +696,10 @@ into long exception stack traces. — Scott Bellware
 Bigamy: Having one wife too many.
 Monogamy: The same thing!           — Unknown source.
 %
-One thing I could never understand is why in Microsoft Word, it often happened
-that I pressed enter… and the font changed.
+One thing I could never understand is why in Microsoft Word, it often happens
+that I press enter… and the font changes.
+%
+But if you're writing [open source software] for the world, you have to listen
+to your customers — this doesn't change just because they're not paying you in
+money.
+    — Eric S. Raymond in The Cathedral and the Bazaar
