@@ -39,6 +39,7 @@ my @resource_lines =
     qq{Perl Humour - http://perl-begin.org/humour/},
     qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
     qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
+    qq{Selina Mandrake - The Slayer (Buffy parody) - http://shlom.in/selina},
     qq{"Star Trek: We, the Living Dead" - http://shlom.in/st-wtld},
     qq{The Case for File Swapping - http://shlom.in/file-swap},
     qq{"The Human Hacking Field Guide" - http://shlom.in/hhfg},
