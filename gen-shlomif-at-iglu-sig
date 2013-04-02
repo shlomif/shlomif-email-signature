@@ -35,6 +35,7 @@ my @resource_lines =
     qq{My Aphorisms - http://www.shlomifish.org/humour.html},
     qq{My Public Domain Photos - http://www.flickr.com/photos/shlomif/},
     qq{My Favourite FOSS - http://www.shlomifish.org/open-source/favourite/},
+    qq{NSA Factoids - http://www.shlomifish.org/humour/bits/facts/NSA/},
     qq{Original Riddles - http://www.shlomifish.org/puzzles/},
     qq{Optimising Code for Speed - http://shlom.in/optimise},
     qq{Parody of "The Fountainhead" - http://shlom.in/towtf},
