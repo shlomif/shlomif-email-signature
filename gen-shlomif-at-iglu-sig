@@ -17,12 +17,14 @@ my @resource_lines =
 (
     qq{Apple Inc. is Evil - http://www.shlomifish.org/open-source/anti/apple/},
     qq{Best Introductory Programming Language - http://shlom.in/intro-lang},
+    qq{Buffy Factoids - http://www.shlomifish.org/humour/bits/facts/Buffy/},
     qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
     qq{First stop for Perl beginners - http://perl-begin.org/},
     qq{Free (Creative Commons) Music Downloads, Reviews and more - http://jamendo.com/},
     qq{Freecell Solver - http://fc-solve.shlomifish.org/},
     qq{Chuck Norris/etc. Facts - http://www.shlomifish.org/humour/bits/facts/},
     qq{Funny Anti-Terrorism Story - http://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
+    qq{http://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
     qq{"Humanity" - Parody of Modern Life - http://shlom.in/humanity},
     qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
