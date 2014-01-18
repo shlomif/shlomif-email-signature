@@ -3,6 +3,8 @@
 use strict;
 use warnings;
 
+use utf8;
+
 use IO::All;
 
 use File::Spec::Functions qw( catpath splitpath rel2abs );
@@ -18,7 +20,7 @@ my @resource_lines =
     qq{Apple Inc. is Evil - http://www.shlomifish.org/open-source/anti/apple/},
     qq{Best Introductory Programming Language - http://shlom.in/intro-lang},
     qq{Buffy Factoids - http://www.shlomifish.org/humour/bits/facts/Buffy/},
-    qq{http://www.shlomifish.org/humour/bits/Can-I-SCO-Now/ - "Can I SCO Now?"},
+    qq{http://www.shlomifish.org/humour/bits/Can-I-SCO-Now/ - “Can I SCO Now?”},
     qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
     qq{First stop for Perl beginners - http://perl-begin.org/},
     qq{Free (Creative Commons) Music Downloads, Reviews and more - http://jamendo.com/},
@@ -27,7 +29,7 @@ my @resource_lines =
     qq{Funny Anti-Terrorism Story - http://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
     qq{http://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
-    qq{"Humanity" - Parody of Modern Life - http://shlom.in/humanity},
+    qq{Humanity - Parody of Modern Life - http://shlom.in/humanity},
     qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
     qq{List of Portability Libraries - http://shlom.in/port-libs},
     qq{List of Text Editors and IDEs - http://shlom.in/IDEs},
@@ -44,13 +46,13 @@ my @resource_lines =
     qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
     qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
     qq{Selina Mandrake - The Slayer (Buffy parody) - http://shlom.in/selina},
-    qq{"Star Trek: We, the Living Dead" - http://shlom.in/st-wtld},
+    qq{Star Trek: “We, the Living Dead” - http://shlom.in/st-wtld},
     qq{The Case for File Swapping - http://shlom.in/file-swap},
-    qq{"The Human Hacking Field Guide" - http://shlom.in/hhfg},
+    qq{The Human Hacking Field Guide - http://shlom.in/hhfg},
     qq{Understand what Open Source is - http://shlom.in/oss-fs},
     qq{UNIX Fortune Cookies - http://www.shlomifish.org/humour/fortunes/},
     qq{Beginners Site for the Vim text editor - http://vim.begin-site.org/},
-    qq{What does "Zionism" mean? - http://shlom.in/def-zionism},
+    qq{What does “Zionism” mean? - http://shlom.in/def-zionism},
     qq{What Makes Software Apps High Quality -  http://shlom.in/sw-quality},
     qq{Why I Love Perl - http://shlom.in/joy-of-perl},
 );
