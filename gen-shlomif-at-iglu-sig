@@ -3,11 +3,46 @@
 use strict;
 use warnings;
 
+use Math::BigInt (lib => 'GMP');
+
 use utf8;
 
 use IO::All;
 
 use File::Spec::Functions qw( catpath splitpath rel2abs );
+
+sub _myrand
+{
+    my ($max) = @_;
+
+    if (open my $fh, '<:raw', '/dev/urandom')
+    {
+        my $n = Math::BigInt->new(0);
+
+        my $buf = '';
+        read($fh, $buf, 16);
+
+        for my $c (split//,$buf)
+        {
+            $n = (($n << 8) | ord($c));
+        }
+
+        close($fh);
+        return ($n % $max);
+    }
+    else
+    {
+        return int( rand($max) );
+    }
+}
+
+sub _pick
+{
+    my ($aref) = @_;
+
+    return $aref->[_myrand(scalar(@$aref))];
+}
+
 
 my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
 
@@ -57,13 +92,13 @@ my @resource_lines =
     qq{Why I Love Perl - http://shlom.in/joy-of-perl},
 );
 
-my $line = $resource_lines[rand(@resource_lines)];
+my $line = _pick(\@resource_lines);
 
 my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sig-quotes")->slurp;
 
 my @quotes = grep { /\S/ } split(/^\n*%\n*$/ms, $quotes_text);
 
-my $quote = $quotes[rand(scalar(@quotes))];
+my $quote = _pick(\@quotes);
 
 $quote =~ s{\n+\z}{}ms;
 $quote =~ s{\A\n+}{}ms;
