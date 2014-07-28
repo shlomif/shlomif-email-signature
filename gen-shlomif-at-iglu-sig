@@ -56,6 +56,8 @@ my @resource_lines =
     qq{Best Introductory Programming Language - http://shlom.in/intro-lang},
     qq{Buffy Factoids - http://www.shlomifish.org/humour/bits/facts/Buffy/},
     qq{http://www.shlomifish.org/humour/bits/Can-I-SCO-Now/ - “Can I SCO Now?”},
+    qq{http://www.shlomifish.org/humour/bits/facts/Emma-Watson/},
+    qq{http://www.shlomifish.org/humour/bits/facts/Summer-Glau/},
     qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
     qq{First stop for Perl beginners - http://perl-begin.org/},
     qq{Free (Creative Commons) Music Downloads, Reviews and more - http://jamendo.com/},
