@@ -64,6 +64,11 @@ my @resource_lines =
     qq{Freecell Solver - http://fc-solve.shlomifish.org/},
     qq{Chuck Norris/etc. Facts - http://www.shlomifish.org/humour/bits/facts/},
     qq{Funny Anti-Terrorism Story - http://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
+    qq{http://is.gd/htwEXQ - Integrating GNU Guile into GNU coreutils},
+    qq{http://is.gd/i5eMQd - Emma Watson’s Interview for a Software Dev Job},
+    qq{http://is.gd/KNvczZ - The FSF Announces New Versions of the GPL},
+    qq{http://www.shlomifish.org/humour/bits/Google-Discontinues-Services/},
+    qq{http://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/},
     qq{http://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
     qq{Humanity - Parody of Modern Life - http://shlom.in/humanity},
