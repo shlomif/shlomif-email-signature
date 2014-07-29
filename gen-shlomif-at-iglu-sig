@@ -101,7 +101,7 @@ my @resource_lines =
 
 my $line = _pick(\@resource_lines);
 
-my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sig-quotes")->slurp;
+my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sig-quotes.txt")->slurp;
 
 my @quotes = grep { /\S/ } split(/^\n*%\n*$/ms, $quotes_text);
 
