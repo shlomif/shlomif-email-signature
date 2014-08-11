@@ -1,0 +1,124 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use Math::BigInt (lib => 'GMP');
+
+use utf8;
+
+use IO::All;
+
+use File::Spec::Functions qw( catpath splitpath rel2abs );
+
+sub _myrand
+{
+    my ($max) = @_;
+
+    if (open my $fh, '<:raw', '/dev/urandom')
+    {
+        my $n = Math::BigInt->new(0);
+
+        my $buf = '';
+        read($fh, $buf, 16);
+
+        for my $c (split//,$buf)
+        {
+            $n = (($n << 8) | ord($c));
+        }
+
+        close($fh);
+        return ($n % $max);
+    }
+    else
+    {
+        return int( rand($max) );
+    }
+}
+
+sub _pick
+{
+    my ($aref) = @_;
+
+    return $aref->[_myrand(scalar(@$aref))];
+}
+
+
+my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
+
+my $sig = io()->file($ENV{HOME}."/.signature")->slurp();
+
+# my ($quote) = ($sig =~ m{(([^\n]*\w[^\n]*\n)+)\z}ms);
+
+my @resource_lines =
+(
+    qq{Apple Inc. is Evil - http://www.shlomifish.org/open-source/anti/apple/},
+    qq{Best Introductory Programming Language - http://shlom.in/intro-lang},
+    qq{Buffy Factoids - http://www.shlomifish.org/humour/bits/facts/Buffy/},
+    qq{http://www.shlomifish.org/humour/bits/Can-I-SCO-Now/ - “Can I SCO Now?”},
+    qq{http://www.shlomifish.org/humour/bits/facts/Emma-Watson/},
+    qq{http://www.shlomifish.org/humour/bits/facts/Summer-Glau/},
+    qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
+    qq{First stop for Perl beginners - http://perl-begin.org/},
+    qq{Free (Creative Commons) Music Downloads, Reviews and more - http://jamendo.com/},
+    qq{Freecell Solver - http://fc-solve.shlomifish.org/},
+    qq{Chuck Norris/etc. Facts - http://www.shlomifish.org/humour/bits/facts/},
+    qq{Funny Anti-Terrorism Story - http://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
+    qq{http://is.gd/htwEXQ - Integrating GNU Guile into GNU coreutils},
+    qq{http://is.gd/i5eMQd - Emma Watson’s Interview for a Software Dev Job},
+    qq{http://is.gd/KNvczZ - The FSF Announces New Versions of the GPL},
+    qq{http://www.shlomifish.org/humour/bits/Google-Discontinues-Services/},
+    qq{http://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/},
+    qq{http://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
+    qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
+    qq{Humanity - Parody of Modern Life - http://shlom.in/humanity},
+    qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
+    qq{List of Portability Libraries - http://shlom.in/port-libs},
+    qq{List of Text Editors and IDEs - http://shlom.in/IDEs},
+    qq{List of Text Processing Tools - http://shlom.in/text-proc},
+    qq{List of Networking Clients - http://shlom.in/net-clients},
+    qq{My Aphorisms - http://www.shlomifish.org/humour.html},
+    qq{My Public Domain Photos - http://www.flickr.com/photos/shlomif/},
+    qq{My Favourite FOSS - http://www.shlomifish.org/open-source/favourite/},
+    qq{NSA Factoids - http://www.shlomifish.org/humour/bits/facts/NSA/},
+    qq{Original Riddles - http://www.shlomifish.org/puzzles/},
+    qq{Optimising Code for Speed - http://shlom.in/optimise},
+    qq{Parody of "The Fountainhead" - http://shlom.in/towtf},
+    qq{Perl Humour - http://perl-begin.org/humour/},
+    qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
+    qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
+    qq{Selina Mandrake - The Slayer (Buffy parody) - http://shlom.in/selina},
+    qq{Star Trek: “We, the Living Dead” - http://shlom.in/st-wtld},
+    qq{The Case for File Swapping - http://shlom.in/file-swap},
+    qq{The Human Hacking Field Guide - http://shlom.in/hhfg},
+    qq{Understand what Open Source is - http://shlom.in/oss-fs},
+    qq{UNIX Fortune Cookies - http://www.shlomifish.org/humour/fortunes/},
+    qq{Beginners Site for the Vim text editor - http://vim.begin-site.org/},
+    qq{What does “Zionism” mean? - http://shlom.in/def-zionism},
+    qq{What Makes Software Apps High Quality -  http://shlom.in/sw-quality},
+    qq{Why I Love Perl - http://shlom.in/joy-of-perl},
+);
+
+my $line = _pick(\@resource_lines);
+
+my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sig-quotes.txt")->slurp;
+
+my @quotes = grep { /\S/ } split(/^\n*%\n*$/ms, $quotes_text);
+
+my $quote = _pick(\@quotes);
+
+$quote =~ s{\n+\z}{}ms;
+$quote =~ s{\A\n+}{}ms;
+
+my $text = <<"EOF";
+-----------------------------------------------------------------
+Shlomi Fish       http://www.shlomifish.org/
+$line
+
+$quote
+
+Please reply to list if it's a mailing list post - http://shlom.in/reply .
+EOF
+
+binmode STDOUT, ":utf8";
+print $text;
