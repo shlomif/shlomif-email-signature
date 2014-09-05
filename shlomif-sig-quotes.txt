@@ -1563,3 +1563,7 @@ sheriff and shot Chuck Norris.
 %
 Summer Glau can kill you with her mind. But she’ll never need to or will.
     — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+%
+Joel’s Generalisation: If it happens to you, it happens to everybody.
+(Or: It’s never only you.)
+    — Based on http://www.joelonsoftware.com/news/20020402.html
