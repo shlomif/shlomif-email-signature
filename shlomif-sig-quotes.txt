@@ -1577,3 +1577,8 @@ We are men of action. Bullshit does not become us.
 Chuck Norris wrote the entire tvtropes.org wiki, so he can sleep with your
 significant other while you are distracted reading it.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Emma Watson does not have 10 years of experience in developing Enterprise Java
+software. However, she has over 10 years of experience in getting shit done -
+well, on schedule, and at a reasonable cost.
+    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
