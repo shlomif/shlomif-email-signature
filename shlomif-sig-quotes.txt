@@ -1598,3 +1598,7 @@ Chuck norris can edit Wikipedia super protected pages. Anonymously.
 XSLT isn't like violence. XSLT is violence - there is no such thing as using
 it too little.
     — http://www.shlomifish.org/humour/bits/facts/XSLT/
+%
+Reality to be commanded must be obeyed. Chuck Norris disobeyed reality, and
+now he commands it.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
