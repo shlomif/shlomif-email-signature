@@ -1745,3 +1745,6 @@ Chuck Norris once refactored a 10 million lines C++ program and was done by
 lunch time. It then took Summer Glau 5 minutes to write the equivalent Perl
 10-liner.
     — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+%
+Summer Glau showed Kermit the Frog how easy it can be to be green.
+    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
