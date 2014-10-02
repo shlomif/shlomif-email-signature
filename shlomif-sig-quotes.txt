@@ -1740,3 +1740,8 @@ Giles, Willow: Buffy?
 SMG: Nah! I’m Sarah Michelle Gellar. I’m the actress who played her.
 Buffy: My… kindred… spirit! [She faints into Xander’s arms.]
     — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+%
+Chuck Norris once refactored a 10 million lines C++ program and was done by
+lunch time. It then took Summer Glau 5 minutes to write the equivalent Perl
+10-liner.
+    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
