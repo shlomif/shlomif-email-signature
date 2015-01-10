@@ -1796,3 +1796,7 @@ Chuck Norris grows money on trees.
 A fanatic: one who redoubles his efforts after he has forgotten his aim.
     — http://en.wikiquote.org/wiki/George_Santayana
     (via http://esr.ibiblio.org/?p=4371 ).
+%
+As it turns out, compiling a C program from more than 20 years ago is actually
+a lot easier than getting a Rails app from last year to work.
+    — https://passy.svbtle.com/building-vim-from-1993-today
