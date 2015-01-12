@@ -1800,3 +1800,6 @@ A fanatic: one who redoubles his efforts after he has forgotten his aim.
 As it turns out, compiling a C program from more than 20 years ago is actually
 a lot easier than getting a Rails app from last year to work.
     — https://passy.svbtle.com/building-vim-from-1993-today
+%
+If you have to ask what Jazz is, you'll never know.
+    — Attributed to https://en.wikiquote.org/wiki/Louis_Armstrong
