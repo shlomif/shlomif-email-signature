@@ -1807,3 +1807,6 @@ If you have to ask what Jazz is, you'll never know.
 Because you can't just make shit up and expect the computer to magically know
 what you mean, Retardo!
     — Mark Jason Dominus, http://perl.plover.com/Questions4.html
+%
+The world is full of people, who each have their own personal whims and quirks,
+and which they expect you to remember and accommodate for, all the time.
