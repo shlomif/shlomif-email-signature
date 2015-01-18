@@ -491,7 +491,7 @@ Dummies.”
 %
 A golfed Java program will be longer than non‐golf Perl or Python code.
 %
-“We’re not doing it for money… we’re doing it for a shitload of money!”
+“We’re not just doing it for money… we’re doing it for a shitload of money!”
     — Spaceballs, http://www.imdb.com/title/tt0094012/
 %
 Lone Starr: “Just what we need — a Druish princess.”
