@@ -1810,3 +1810,6 @@ what you mean, Retardo!
 %
 The world is full of people, who each have their own personal whims and quirks,
 and which they expect you to remember and accommodate for, all the time.
+%
+Some people were allocating memory before it was cool. These people are called
+heapsters.                (via ZadYree)
