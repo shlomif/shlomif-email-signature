@@ -1768,3 +1768,6 @@ Chuck Norris killed the fat lady before she could sing.
 %
 A positive attitude may not solve all your problems, but it will annoy enough
 people to make it worth the effort. — Herm Albright (via On Gossamer Wings)
+%
+There are only two hard things in Computer Science: cache invalidation and
+naming things.           — Phil Karlton
