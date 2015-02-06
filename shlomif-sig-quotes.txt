@@ -1773,4 +1773,4 @@ There are only two hard things in Computer Science: cache invalidation and
 naming things.           — Phil Karlton
 %
 Golden rule #12: When the comments do not match the code, they probably are
-both wrong ;)               — Steven Rostedt, http://lwn.net/Articles/433900/
+both wrong. ;)              — Steven Rostedt, http://lwn.net/Articles/433900/
