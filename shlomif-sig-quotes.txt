@@ -779,7 +779,7 @@ the first nine circles were too mild for them.
     — http://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 I have a brilliant idea: a distributed, NoSQL, Webscale™ /dev/null alternative.
-I’m going to patent it. (inspired by arubin on ##programming).
+I’m going to patent it. (Inspired by arubin on ##programming.)
 %
 <Su-Shee> Also, .* is the most unspecific regex you can use. It’s like saying:
 oh well match something of anything or nothing, and, please, a lot of it ;)
