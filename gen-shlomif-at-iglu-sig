@@ -75,6 +75,7 @@ my @resource_lines =
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
     qq{Humanity - Parody of Modern Life - http://shlom.in/humanity},
     qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
+    qq{Let’s talk about restores instead of backups - http://is.gd/WatQqu},
     qq{List of Portability Libraries - http://shlom.in/port-libs},
     qq{List of Text Editors and IDEs - http://shlom.in/IDEs},
     qq{List of Text Processing Tools - http://shlom.in/text-proc},
