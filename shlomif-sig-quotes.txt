@@ -1782,3 +1782,6 @@ Some people grow older and wiser. Not I. I grow older and more foolish.
 %
 Give Yogi a rifle. Support your right to arm bears!
     — Unknown Source, via Nadav Har’El.
+%
+One of my most productive days was throwing away 1,000 lines of code.
+    — Ken Thompson (Attributed)
