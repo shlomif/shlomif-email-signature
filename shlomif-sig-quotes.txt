@@ -1791,3 +1791,6 @@ One of my most productive days was throwing away 1,000 lines of code.
 %
 Chuck Norris can hear the sounds of silence.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Anything less than the best is a felony.
+    — https://en.wikipedia.org/wiki/Ice_Ice_Baby
