@@ -1794,3 +1794,6 @@ Chuck Norris can hear the sounds of silence.
 %
 Anything less than the best is a felony.
     — https://en.wikipedia.org/wiki/Ice_Ice_Baby
+%
+“The best time to plant a tree was 20 years ago. The second best time is now.”
+    – A Reported Proverb
