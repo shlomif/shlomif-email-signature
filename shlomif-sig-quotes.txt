@@ -1797,3 +1797,11 @@ Anything less than the best is a felony.
 %
 “The best time to plant a tree was 20 years ago. The second best time is now.”
     – A Reported Proverb
+%
+How can you make a programming language that will be good for everything if you
+cannot even make such a screwdriver?
+    — An Israeli Open Source Software Enthusiast.
+%
+I understood what Monads are for 5 minutes. Then I had to let go of the
+understanding. It was too intense to be kept inside my head.
+    — An Israeli Open Source Software Enthusiast.
