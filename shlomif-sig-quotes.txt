@@ -554,12 +554,14 @@ Got to be good‐looking ’cause he’s so hard to see.
     — The Beatles, “Come Together”
 %
 Larry Wall’s pure‐Perl code is faster than Assembly.
+    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Chuck Norris once wrote a 10 million lines C++ program in Microsoft Notepad
 without having to use the backspace key. And it compiled without errors or
 warnings, and was 100% bug‐free.
 %
 Larry Wall has been changing the world. By modifying its very source code.
+    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Comedy is simply a funny way of being serious.
     — http://en.wikiquote.org/wiki/Peter_Ustinov
