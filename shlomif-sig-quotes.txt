@@ -1859,3 +1859,6 @@ Chuck Norris’s cat does not chase mice. It chases dogs.
 %
 If I had any humility, I would be perfect.
     — Ted Turner
+%
+Chuck Norris has 50 years of proven experience in PHP/MySQL/Java. Each.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
