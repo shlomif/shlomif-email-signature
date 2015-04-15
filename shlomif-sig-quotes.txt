@@ -1862,3 +1862,6 @@ If I had any humility, I would be perfect.
 %
 Chuck Norris has 50 years of proven experience in PHP/MySQL/Java. Each.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Right Said Fred is not too sexy for Chuck Norris.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
