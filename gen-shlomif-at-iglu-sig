@@ -46,10 +46,6 @@ sub _pick
 
 my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
 
-my $sig = io()->file($ENV{HOME}."/.signature")->slurp();
-
-# my ($quote) = ($sig =~ m{(([^\n]*\w[^\n]*\n)+)\z}ms);
-
 my @resource_lines =
 (
     qq{Apple Inc. is Evil - http://www.shlomifish.org/open-source/anti/apple/},
