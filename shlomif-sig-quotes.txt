@@ -1875,3 +1875,7 @@ Chuck Norris’s woodchuck can chuck wood.
 %
 Chuck Norris made the baby Jesus stop crying.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+The three principal virtues of a programmer are Laziness, Impatience, and
+Hubris.
+    — http://perldoc.perl.org/perl.html
