@@ -1879,3 +1879,6 @@ Chuck Norris made the baby Jesus stop crying.
 The three principal virtues of a programmer are Laziness, Impatience, and
 Hubris.
     — http://perldoc.perl.org/perl.html
+%
+There are two types of command interfaces: good interfaces and user interfaces.
+    — http://en.wikiquote.org/wiki/Daniel_J._Bernstein
