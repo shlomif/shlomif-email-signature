@@ -1882,3 +1882,6 @@ Hubris.
 %
 There are two types of command interfaces: good interfaces and user interfaces.
     — http://en.wikiquote.org/wiki/Daniel_J._Bernstein
+%
+It is a good idea to stop worrying about problems (or “problems” in quotes)
+that cannot be fixed.
