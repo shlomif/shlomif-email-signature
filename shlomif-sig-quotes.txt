@@ -1885,3 +1885,6 @@ There are two types of command interfaces: good interfaces and user interfaces.
 %
 It is a good idea to stop worrying about problems (or “problems” in quotes)
 that cannot be fixed.
+%
+Chuck Norris killed the bottommost turtle.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
