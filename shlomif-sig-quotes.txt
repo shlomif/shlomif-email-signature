@@ -1888,3 +1888,11 @@ that cannot be fixed.
 %
 Chuck Norris killed the bottommost turtle.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Reportedly, SANE (= “Scannar Access Now Easy”) was called that way in part
+so one can say “TWAIN is not SANE!”.
+    — (via an Israeli FOSS enthusiast).
+%
+Open source software: each person contributes a brick, but ultimately each
+person receives a house in return.
+    — Brendan Scott (Attributed)
