@@ -1921,3 +1921,6 @@ difference between theory and practice, while in practice, there is.
 %
 I before E, except after C. We live in a weird society.
     — Source unknown, via Nadav Har’El.
+%
+HP/UX is not a UNIX, and AIX is even less of it than that.
+    — An Israeli Open Source Software Enthusiast.
