@@ -1924,3 +1924,6 @@ I before E, except after C. We live in a weird society.
 %
 HP/UX is not a UNIX, and AIX is even less of it than that.
     — An Israeli Open Source Software Enthusiast.
+%
+A rose by a name picked by Chuck Norris, will smell sweeter.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
