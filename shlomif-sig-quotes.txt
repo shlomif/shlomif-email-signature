@@ -1929,5 +1929,5 @@ A rose by a name picked by Chuck Norris, will smell sweeter.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Objective Visual Turbo Global jIronOpenPerl++.NET™ Enterprise Edition♭
-Professional Home Premium 64-bit Single-user.
+Professional Home Premium Ultimate 64-bit Single-user.
     — based on a Freenode #perl conversation ( http://is.gd/cCUBY2 )
