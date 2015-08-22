@@ -1927,3 +1927,7 @@ HP/UX is not a UNIX, and AIX is even less of it than that.
 %
 A rose by a name picked by Chuck Norris, will smell sweeter.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Objective Visual Turbo Global jIronOpenPerl++.NET™ Enterprise Edition♭
+Professional Home Premium 64-bit Single-user.
+    — based on a Freenode #perl conversation ( http://is.gd/cCUBY2 )
