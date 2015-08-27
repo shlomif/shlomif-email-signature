@@ -1931,3 +1931,6 @@ A rose by a name picked by Chuck Norris, will smell sweeter.
 Objective Visual Turbo Global jIronOpenPerl++.NET™ Enterprise Edition♭
 Professional Home Premium Ultimate 64-bit Single-user.
     — based on a Freenode #perl conversation ( http://is.gd/cCUBY2 )
+%
+As to the Adjective: when in doubt, strike it out.
+    — Mark Twain, “Pudd’nhead Wilson's Calendar”
