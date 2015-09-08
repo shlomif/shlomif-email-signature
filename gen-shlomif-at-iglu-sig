@@ -65,6 +65,7 @@ my @resource_lines =
     qq{http://is.gd/i5eMQd - Emma Watson’s Interview for a Software Dev Job},
     qq{http://is.gd/KNvczZ - The FSF Announces New Versions of the GPL},
     qq{http://youtu.be/KxGRhd_iWuE - Never Give Up!!},
+    qq{http://youtu.be/xZLwtc9x4yA - Anime in Real Life!! (Parody)},
     qq{http://www.shlomifish.org/humour/bits/Google-Discontinues-Services/},
     qq{http://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/},
     qq{http://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
