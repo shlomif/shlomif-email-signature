@@ -1974,3 +1974,7 @@ No one tells Chuck Norris what not to do.
 %
 If you laugh, Chuck Norris will only laugh with you if the joke is funny.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+In the beginning the Universe was created. This has made a lot of people very
+angry and been widely regarded as a bad move.
+    — https://en.wikiquote.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy
