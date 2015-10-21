@@ -100,6 +100,7 @@ my @resource_lines =
     qq{What Makes Software Apps High Quality -  http://shlom.in/sw-quality},
     qq{Why I Love Perl - http://shlom.in/joy-of-perl},
     qq{http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/},
+    qq{http://shlomifishswiki.branchable.com/Self-Sufficiency/},
 );
 
 my $line = _pick(\@resource_lines);
