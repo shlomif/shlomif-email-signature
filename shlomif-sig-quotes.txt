@@ -1985,3 +1985,7 @@ Right to bear arms? In Soviet Russia, we have right to whole bear.
 I think those “Sent from my $DEVICE” signatures in E-mails are actually bad
 publicity for these devices, given the poor quality of most of these E-mails.
     — https://twitter.com/shlomif/status/656868022649561088
+%
+Ever notice that even the busiest people are never too busy to tell you
+just how busy they are?
+    — Source unknown, taken from Linux’s fortune-mod
