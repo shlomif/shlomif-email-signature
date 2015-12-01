@@ -1989,3 +1989,8 @@ publicity for these devices, given the poor quality of most of these E-mails.
 Ever notice that even the busiest people are never too busy to tell you
 just how busy they are?
     — Source unknown, taken from Linux’s fortune-mod
+%
+The ability to destroy a planet is insignificant next to the power of the
+Force. The power of the Force is insignificant next to the wrath of Chuck
+Norris.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
