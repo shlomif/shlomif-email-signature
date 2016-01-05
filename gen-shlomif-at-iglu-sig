@@ -70,6 +70,7 @@ my @resource_lines =
     qq{http://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/},
     qq{http://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
+    qq{http://ccmixter.org/files/destinazione_altrove/49997 - “Paint The Sky”},
     qq{Humanity - Parody of Modern Life - http://shlom.in/humanity},
     qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
     qq{Let’s talk about restores instead of backups - http://is.gd/WatQqu},
