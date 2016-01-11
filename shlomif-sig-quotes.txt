@@ -1999,7 +1999,10 @@ Norris.
 %
 The greatest threat to authors and creative artists is not piracy — it's
 obscurity.
-    - http://radar.oreilly.com/2006/08/piracy-is-progressive-taxation.html
+    — http://radar.oreilly.com/2006/08/piracy-is-progressive-taxation.html
 %
 Tech needs less wizards, ninjas, and rockstars, and way more sociologists.
-    - https://twitter.com/nslater/status/545592700289155072
+    — https://twitter.com/nslater/status/545592700289155072
+%
+The way of the world is to praise dead saints, and persecute living ones.
+    — Nathaniel Howe, http://www.ldsquotes.org/quote?q=1900
