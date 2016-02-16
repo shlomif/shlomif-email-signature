@@ -2012,3 +2012,8 @@ Good judgement comes from experience.  Experience comes from bad judgement.
 %
 Learn from mistakes of others; you won't live long enough to make them all
 yourself.         — Source unknown via Nadav Har’El
+%
+BYTE editors are men who seperate the wheat from the chaff, and then
+carefully print the chaff.
+-- based on Lionel Hummel (uiucdcs!hummel), derived from a quote by Adlai
+Stevenson, Sr.
