@@ -2017,3 +2017,6 @@ BYTE editors are men who seperate the wheat from the chaff, and then
 carefully print the chaff.
 -- based on Lionel Hummel (uiucdcs!hummel), derived from a quote by Adlai
 Stevenson, Sr.
+%
+I come to bury Caesar, not to praise him.
+    — https://en.wikiquote.org/wiki/Julius_Caesar_%28play%29
