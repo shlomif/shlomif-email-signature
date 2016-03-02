@@ -2023,3 +2023,7 @@ I come to bury Caesar, not to praise him.
 %
 Chuck Norris created an O(1/N) algorithm.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+The Klingon warriors’ motto is “It’s a good day to die.” Chuck Norris’s motto
+is “It’s a good day to kill.”
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
