@@ -2027,3 +2027,17 @@ Chuck Norris created an O(1/N) algorithm.
 The Klingon warriors’ motto is “It’s a good day to die.” Chuck Norris’s motto
 is “It’s a good day to kill.”
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+One of Rincewind’s tutors had said of him that “to call his understanding of
+magical theory abysmal is to leave no suitable word to describe his grasp of
+its practice”.
+    — Terry Practhett, Sourcery
+%
+People who think they know everything greatly annoy those of us who do.
+    — Source unknown, via Linux’s fortune-mod
+%
+At this point, I'd like to take a moment to speak to you about the Adobe PSD
+format. PSD is not a good format. PSD is not even a bad format. Calling it
+such would be an insult to other bad formats, such as PCX or JPEG. No, PSD is
+an abysmal format.
+— https://github.com/gco/xee/blob/master/XeePhotoshopLoader.m
