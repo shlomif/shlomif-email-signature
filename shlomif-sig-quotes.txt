@@ -2041,3 +2041,6 @@ format. PSD is not a good format. PSD is not even a bad format. Calling it
 such would be an insult to other bad formats, such as PCX or JPEG. No, PSD is
 an abysmal format.
 — https://github.com/gco/xee/blob/master/XeePhotoshopLoader.m
+%
+A horse! A horse! My kingdom for a horse!
+    — https://en.wikiquote.org/wiki/Richard_III_%28play%29
