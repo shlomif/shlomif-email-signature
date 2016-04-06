@@ -2047,3 +2047,6 @@ A horse! A horse! My kingdom for a horse!
 %
 Do you always begin conversations this way?
     — https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29
+%
+It’s easier to port a shell than a shell script.
+    — http://en.wikiquote.org/wiki/Larry_Wall
