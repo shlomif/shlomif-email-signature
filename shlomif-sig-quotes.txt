@@ -2050,3 +2050,7 @@ Do you always begin conversations this way?
 %
 It’s easier to port a shell than a shell script.
     — http://en.wikiquote.org/wiki/Larry_Wall
+%
+When you say “I wrote a program that crashed Windows”, people just stare at
+you blankly and say “Hey, I got those with the system, *for free*”.
+    — https://en.wikiquote.org/wiki/Linus_Torvalds
