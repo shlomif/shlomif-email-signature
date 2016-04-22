@@ -2058,3 +2058,6 @@ you blankly and say “Hey, I got those with the system, *for free*”.
 With all the progress being made, it looks like soon we’ll be able to run
 Word 2000 in Wine on Cygwin, in Windows 95, in plex 86, on Linux!
     — Francois Gouget (from thhe movement-sigs fortune file)
+%
+A person with one watch knows what time it is; a person with two watches is
+never sure.   — Proverb [via fortune-mod]
