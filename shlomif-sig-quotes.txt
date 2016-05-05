@@ -2061,3 +2061,11 @@ Word 2000 in Wine on Cygwin, in Windows 95, in plex 86, on Linux!
 %
 A person with one watch knows what time it is; a person with two watches is
 never sure.   — Proverb [via fortune-mod]
+%
+A serious and good philosophical work could be written consisting entirely of
+jokes.
+    — https://en.wikiquote.org/wiki/Ludwig_Wittgenstein
+%
+“Did you sleep well?”
+“No, I made a couple of mistakes.”
+    — https://en.wikiquote.org/wiki/Steven_Wright via Nadav Har’El
