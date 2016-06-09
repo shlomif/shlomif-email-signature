@@ -2058,7 +2058,7 @@ you blankly and say “Hey, I got those with the system, *for free*”.
 %
 With all the progress being made, it looks like soon we’ll be able to run
 Word 2000 in Wine on Cygwin, in Windows 95, in plex 86, on Linux!
-    — Francois Gouget (from thhe movement-sigs fortune file)
+    — Francois Gouget (from the movement-sigs fortune file)
 %
 A person with one watch knows what time it is; a person with two watches is
 never sure.   — Proverb [via fortune-mod]
@@ -2084,3 +2084,6 @@ I believe in the Golden Rule - the man with the gold... rules.
 The key to making programs fast is to make them do practically nothing. ;-)
     — Mike Haetel (= the original author of GNU grep)
 — http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
+%
+I don’t believe in Astrology, because I’m a Taurus, and Tauri never believe in
+Astrology.           — Source unknown
