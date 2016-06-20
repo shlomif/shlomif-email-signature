@@ -2095,3 +2095,6 @@ Pisces, and that Pisces always believe in Astrology.
 %
 Between truth and the search for truth, I opt for the second.
     — Bernard Berenson (Unsourced via fortune-mod)
+%
+“You may not work around any technical limitations in the software”
+    — Windows Vista licence [via Dave Mitchell]
