@@ -2117,3 +2117,11 @@ Guarantee: this email is 100% free of magnetic monopoles, or your money back!
 %
 I want to live forever or die in the attempt.
     — via Nadav Har’El
+%
+We all know Linux is great… it does infinite loops in 5 seconds.
+    — Linus Torvalds at the Amsterdam Linux Symposium (from fortune-mod).
+%
+<netgod> Time flies when you’re using Linux.
+<doogie> Yeah, infinite loops in 5 seconds.
+<Teknix> Has anyone re-tested that with 2.2.x ?
+<netgod> Yeah, 4 seconds now.
