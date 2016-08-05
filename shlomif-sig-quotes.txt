@@ -2125,3 +2125,7 @@ We all know Linux is great… it does infinite loops in 5 seconds.
 <doogie> Yeah, infinite loops in 5 seconds.
 <Teknix> Has anyone re-tested that with 2.2.x ?
 <netgod> Yeah, 4 seconds now.
+%
+The economy depends about as much on economists as the weather does on
+weather forecasters.
+    — Jean-Paul Kauffmann (Unsourced, via Roman M. Parparov)
