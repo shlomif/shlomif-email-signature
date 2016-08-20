@@ -2134,3 +2134,6 @@ If you put 7 of the most talented FOSS developers in a room for a week
 and asked them to fix a bug in a spreadsheet program, in 1 week
 you'd have 2 new mail readers and a text-based web browser.
     — via Bram Moolenaar
+%
+I’m not young enough to know everything.
+    — https://en.wikiquote.org/wiki/J._M._Barrie
