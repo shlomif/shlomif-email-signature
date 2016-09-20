@@ -2137,3 +2137,10 @@ you'd have 2 new mail readers and a text-based web browser.
 %
 I’m not young enough to know everything.
     — https://en.wikiquote.org/wiki/J._M._Barrie
+%
+The difference between America and England is that the English think 100
+miles is a long distance and the Americans think 100 years is a long time.
+    — Source unknown, via Linux’s fortune-mod
+%
+I have defined the 100 per cent American as 99 per cent an idiot.
+    — https://en.wikiquote.org/wiki/George_Bernard_Shaw
