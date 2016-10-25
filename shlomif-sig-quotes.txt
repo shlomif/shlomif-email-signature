@@ -2155,3 +2155,29 @@ kingdom for himself.
 %
 God signs people into the book of life using a pen that Chuck Norris gave him.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Windows Update doesn’t.
+    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+Aesop originally wanted to write his fable as “The Hare and Windows Update”
+instead of “The Hare and the Tortoise” but could not figure out how the hare
+will ever lose to Windows Update, even despite him not taking the race
+seriously.
+    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+By the time it takes Windows Update to download a 22 MB update without
+installing it, Mageia Linux’s urpmi was already able to download and install a
+game whose package is 900 MB (and there was still a lot of time to spare).
+    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+Only three things are infinite: the universe, human stupidity, and the amount
+of patience that Windows Update requires.
+    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+Windows Update does not take forever to finish updating your computer. It takes
+at least forever and two weeks.
+    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+Ten measures of slowness went down to the world.  Windows Update required at
+least eleven, so more had to be provided.
+    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
