@@ -2187,3 +2187,7 @@ The nice thing about standards is that you have so many to choose from.
 %
 After all is said and done, a hell of a lot more is said than done.
     — Unclear source, via fortune-mod.
+%
+Only wimps use tape backup: real men just upload their important stuff on FTP,
+and let the rest of the world mirror it.
+    — https://en.wikiquote.org/wiki/Linus_Torvalds
