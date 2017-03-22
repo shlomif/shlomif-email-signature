@@ -1,24 +1,31 @@
 I don’t believe in fairies. Oops! A fairy died.
 I don’t believe in fairies. Oops! Another fairy died.
+    — http://www.shlomifish.org/humour.html
 %
 The prefix “God Said” has the extraordinary logical property of converting any
 statement that follows it into a true one.
+    — http://www.shlomifish.org/humour.html
 %
 I used to be arrogant. Now I’m simply perfect.
-    — one of Shlomi Fish’s relatives.
+    — one of Shlomi Fish’s relatives, http://www.shlomifish.org/humour.html
 %
 Microsoft — making it all make sense. Ours.
+    — http://www.shlomifish.org/humour.html
 %
 Linux — Because Software Problems Should not Cost Money.
+    — http://www.shlomifish.org/art/linux_banner/
 %
 The American Lottery: all you need is a dollar and a dream. We will take the
 dollar, but you can keep the dream.
+    — http://www.shlomifish.org/humour.html
 %
 Judaism: God knows you will do shit, does nothing to prevent it, but makes you
 take the blame for it anyways.
+    — http://www.shlomifish.org/humour.html
 %
 Judaism: God is all the shit, all the non‐shit and all the intermediate
 demi‐shits in between.
+    — http://www.shlomifish.org/humour.html
 %
 Oh! I wish you could see the look on his face! Actually, I would have also
 liked to see the look on his face, but just then I woke up from the dream.
@@ -29,6 +36,7 @@ Had I not been already insane, I would have long ago driven myself mad.
 %
 A more experienced programmer does not make less bugs. He just realizes what
 went wrong more quickly.
+    — http://www.shlomifish.org/humour.html
 %
 Knuth is not God! It took him two days to build the Roman Empire.
     — http://www.shlomifish.org/humour/bits/facts/Knuth/
