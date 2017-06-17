@@ -2293,3 +2293,11 @@ https://groups.yahoo.com/neo/groups/fc-solve-discuss/conversations/messages/222
 The most exciting phrase to hear in science, the one that heralds new
 discoveries, is not “Eureka!” (I found it!) but “That's funny…”.
 — https://en.wikiquote.org/wiki/Isaac_Asimov [Attributed]
+%
+Programming today is a race between software engineers striving to build
+bigger and better idiot-proof programs, and the universe trying to produce
+bigger and better idiots. So far, the universe is winning.
+    — https://en.wikiquote.org/wiki/Rick_Cook  (via Oron Peled)
+%
+It is impossible to make anything foolproof because fools are so ingenious.
+    — Source Unknown
