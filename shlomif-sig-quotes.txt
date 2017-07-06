@@ -2301,3 +2301,17 @@ bigger and better idiots. So far, the universe is winning.
 %
 It is impossible to make anything foolproof because fools are so ingenious.
     — Source Unknown
+%
+Chuck Norris has an Erdős number of -1.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+A skyscraper once jumped off Chuck Norris. It didn't survive.
+(By Andrew Brehm) — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Chuck Norris once jumped out of a plane, and the parachute did not open. So
+instead Chuck Norris opened and brought him and the parachute down safely.
+(By Andrew Brehm) — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+I want to create a programming language called “Multiply” so people can say
+“I program in Go, Forth, and Multiply”.
+    — https://twitter.com/shlomif/status/880376410820542466
