@@ -2316,7 +2316,7 @@ I want to create a programming language called “Multiply” so people can say
 “I program in Go, Forth, and Multiply”.
     — https://twitter.com/shlomif/status/880376410820542466
 %
-I’d rather have natural stupidity over artificial intelligence.
+I’d rather have natural stupidity instead of artificial intelligence.
     — Unknown
 %
 Artificial Intelligence is not an adequate substitute for natural stupidity.
