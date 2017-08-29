@@ -46,6 +46,14 @@ sub _pick
 
 my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
 
+=head1 Rejects
+
+No longer relevant or of interest:
+
+    qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
+
+=cut
+
 my @resource_lines =
 (
     qq{Apple Inc. is Evil - http://www.shlomifish.org/open-source/anti/apple/},
@@ -91,7 +99,6 @@ my @resource_lines =
     qq{Parody of "The Fountainhead" - http://shlom.in/towtf},
     qq{Perl Elems to Avoid - http://perl-begin.org/tutorials/bad-elements/},
     qq{Perl Humour - http://perl-begin.org/humour/},
-    qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
     qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
     qq{Selina Mandrake - The Slayer (Buffy parody) - http://shlom.in/selina},
     qq{“So, who the hell is Qoheleth?” - http://shlom.in/qoheleth},
