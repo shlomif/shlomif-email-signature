@@ -76,7 +76,7 @@ my @resource_lines =
     qq{http://youtu.be/xZLwtc9x4yA - Anime in Real Life!! (Parody)},
     qq{https://youtu.be/GoEn1YfYTBM - Tiffany Alvord - “Fall Together”},
     qq{https://youtu.be/n6KAGqjdmsk - “Hurt Me Tomorrow”},
-    qq{https://is.gd/MQHVF3 - The Atom Text Editors edits a 2,000,001b file},
+    qq{https://is.gd/MQHVF3 - The Atom Text Editors edits a 2,000,001B file},
     qq{http://www.shlomifish.org/humour/bits/Google-Discontinues-Services/},
     qq{http://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/},
     qq{http://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
