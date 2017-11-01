@@ -2343,3 +2343,10 @@ kind word and a gun.
 The Windows Update developers are going to burn in hell for the combined time
 it took it to install updates on the users' computers.
     — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+The reward for a job well done will generally
+just be another, probably harder, job.
+		-- Anthony Towns
+%
+Television is a medium because anything well done is rare.
+		-- attributed to both Fred Allen and Ernie Kovacs
