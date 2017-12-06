@@ -127,7 +127,8 @@ my $quote = _pick(\@quotes);
 $quote =~ s{\n+\z}{}ms;
 $quote =~ s{\A\n+}{}ms;
 
-my $text = <<"EOF";
+binmode STDOUT, ":utf8";
+print <<"EOF";
 -----------------------------------------------------------------
 Shlomi Fish       http://www.shlomifish.org/
 $line
@@ -136,6 +137,3 @@ $quote
 
 Please reply to list if it's a mailing list post - http://shlom.in/reply .
 EOF
-
-binmode STDOUT, ":utf8";
-print $text;
