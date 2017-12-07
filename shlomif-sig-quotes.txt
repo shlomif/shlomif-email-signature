@@ -1047,7 +1047,7 @@ Clarissa Darling will win over Chuck Norris in a battle of wits.
     —  http://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
  <Su-Shee>  Botje: “you can’t kill Botje” isn’t Newton’s first law.
- <Su-Shee> 	It’s not even the 5th.
+ <Su-Shee>  It’s not even the 5th.
     —  http://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
  <Su-Shee>  rindolf: yeah because Perl’s crypt() is TOTALLY different from all
@@ -2346,7 +2346,7 @@ it took it to install updates on the users' computers.
 %
 The reward for a job well done will generally
 just be another, probably harder, job.
-		-- Anthony Towns
+    — Anthony Towns
 %
 Television is a medium because anything well done is rare.
-		-- attributed to both Fred Allen and Ernie Kovacs
+    — attributed to both Fred Allen and Ernie Kovacs
