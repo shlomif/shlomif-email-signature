@@ -114,6 +114,7 @@ my @resource_lines =
     qq{Why I Love Perl - http://shlom.in/joy-of-perl},
     qq{http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/},
     qq{http://shlomifishswiki.branchable.com/Self-Sufficiency/},
+    qq{https://github.com/shlomif/what-you-should-know-about-automated-testing},
 );
 
 my $line = _pick(\@resource_lines);
