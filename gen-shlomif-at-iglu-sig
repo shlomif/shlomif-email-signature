@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-use Math::BigInt (lib => 'GMP');
+use Math::BigInt (try => 'GMP');
 
 use utf8;
 
