@@ -7,8 +7,6 @@ use Math::BigInt (lib => 'GMP');
 
 use utf8;
 
-use IO::All;
-
 use File::Spec::Functions qw( catpath splitpath rel2abs );
 
 sub _myrand
@@ -121,7 +119,23 @@ my @resource_lines =
 
 my $line = _pick(\@resource_lines);
 
-my $quotes_text = io()->encoding('utf-8')->file("$script_dir/shlomif-sig-quotes.txt")->slurp;
+sub _slurp
+{
+    my $filename = shift;
+
+    open my $in, '<:encoding(utf8)', $filename
+        or die "Cannot open '$filename' for slurping - $!";
+
+    local $/;
+    my $contents = <$in>;
+
+    close($in);
+
+    return $contents;
+}
+
+
+my $quotes_text = _slurp("$script_dir/shlomif-sig-quotes.txt");
 
 my @quotes = grep { /\S/ } split(/^\n*%\n*$/ms, $quotes_text);
 
