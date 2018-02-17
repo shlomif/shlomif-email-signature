@@ -107,6 +107,7 @@ my @resource_lines =
     qq{http://www.shlomifish.org/humour/ways_to_do_it.html},
     qq{http://www.shlomifish.org/lecture/C-and-CPP/bad-elements/},
     qq{http://www.shlomifish.org/open-source/projects/fortune-mod/},
+    qq{http://www.shlomifish.org/open-source/resources/tech-tips/},
     qq{http://youtu.be/KxGRhd_iWuE - Never Give Up!!},
     qq{http://youtu.be/xZLwtc9x4yA - Anime in Real Life!! (Parody)},
     qq{https://github.com/shlomif/validate-your-html - Validate Your HTML},
