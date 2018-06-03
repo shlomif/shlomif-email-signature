@@ -377,16 +377,21 @@ NASA Uses COBOL.
 %
 When a FLOSS developer says they will work on something, he or she means
 “maybe”.
+    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 * Backward compatibility is your worst enemy.
 * Backward compatibility is your users’ best friend.
+    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 Every successful open source project will eventually spawn a sub‐project.
+    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 Duplicate effort in FOSS is inevitable. Live with it.
+    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 The number of items on an open source project’s to‐do list always grows or
 remains constant.
+    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 <rindolf> buu: do you have a functional spec? An architecture document? An
 interface whitepaper? A developer’s guide? A user manual? A “The BL Book” and
