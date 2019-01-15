@@ -68,6 +68,7 @@ my @resource_lines =
     qq{Humanity - Parody of Modern Life - http://shlom.in/humanity},
     qq{Interview with Ben Collins-Sussman - http://shlom.in/sussman},
     qq{Let’s talk about restores instead of backups - http://is.gd/WatQqu},
+    qq{List of Graphics Apps - http://shlom.in/graphics},
     qq{List of Networking Clients - http://shlom.in/net-clients},
     qq{List of Portability Libraries - http://shlom.in/port-libs},
     qq{List of Text Editors and IDEs - http://shlom.in/IDEs},
