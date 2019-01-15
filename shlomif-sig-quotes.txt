@@ -2099,7 +2099,7 @@ is “It’s a good day to kill.”
 One of Rincewind’s tutors had said of him that “to call his understanding of
 magical theory abysmal is to leave no suitable word to describe his grasp of
 its practice”.
-    — Terry Practhett, Sourcery
+    — Terry Pratchett, Sourcery
 %
 People who think they know everything greatly annoy those of us who do.
     — Source unknown, via Linux’s fortune-mod
@@ -2406,3 +2406,7 @@ How can you govern a nation which has 246 kinds of cheese?
 Windows Update is called this way because by the time it finishes, the date has
 gone up.
     — Trashlord, http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+If it wasn't for the fun and money, I really don't know why I'd bother.
+    — Terry Pratchett in
+    https://groups.google.com/d/msg/alt.fan.pratchett/nQnw8sigGjY/LLNjipJNhHYJ
