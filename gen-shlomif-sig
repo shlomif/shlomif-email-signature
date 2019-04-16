@@ -49,6 +49,7 @@ my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
 No longer relevant or of interest:
 
     qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
+    qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
 
 =cut
 
@@ -84,7 +85,6 @@ my @resource_lines =
     qq{Perl Humour - http://perl-begin.org/humour/},
     qq{Selina Mandrake - The Slayer (Buffy parody) - http://shlom.in/selina},
     qq{Star Trek: “We, the Living Dead” - http://shlom.in/st-wtld},
-    qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
     qq{Summer Glau Facts - http://shlom.in/sglau-facts},
     qq{The Case for File Swapping - http://shlom.in/file-swap},
     qq{The Human Hacking Field Guide - http://shlom.in/hhfg},
