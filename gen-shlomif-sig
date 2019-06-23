@@ -113,6 +113,7 @@ my @resource_lines =
     qq{http://youtu.be/xZLwtc9x4yA - Anime in Real Life!! (Parody)},
     qq{https://github.com/shlomif/Freenode-programming-channel-FAQ},
     qq{https://github.com/shlomif/PySolFC - open source Solitaire games},
+    qq{https://github.com/shlomif/shlomif-computer-settings/ - my dotfiles},
     qq{https://github.com/shlomif/validate-your-html - Validate Your HTML},
     qq{https://github.com/shlomif/what-you-should-know-about-automated-testing},
     qq{https://github.com/sindresorhus/awesome - curated list of lists},
