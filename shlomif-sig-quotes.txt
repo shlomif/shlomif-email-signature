@@ -2457,3 +2457,7 @@ men happy.
 %
 Beware from accumulating too much wisdom. It is not wise to be too wise.
     — https://is.gd/a9QW7q
+%
+The heat death of the universe is best approximated as half the time it would
+have taken Windows Update to install a year’s worth of updates.
+    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
