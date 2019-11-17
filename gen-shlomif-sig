@@ -152,8 +152,8 @@ $quote =~ s{\A\n+}{}ms;
 
 binmode STDOUT, ":utf8";
 print <<"EOF";
------------------------------------------------------------------
-Shlomi Fish       http://www.shlomifish.org/
+
+Shlomi Fish       https://www.shlomifish.org/
 $line
 
 $quote
