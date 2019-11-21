@@ -2535,11 +2535,14 @@ Nightly’?”
 It is wrong to look down on reality show contestants (and more recently -
 YouTubers) who, like older forms of entertainers / philosophers, are seeking
 recognition and fame. However, the show Beauty and the Geek was doomed to
-failure because not only are most attractive girls increasingly attracted to
+failure, because not only are most attractive girls increasingly attracted to
 geeks, but they are increasingly quite geeky themselves.
     — https://is.gd/sLZCSJ
 %
 Even our period's canonical "anti-geek", Penny from the popular sitcom The Big
 Bang Theory, is a wonderful great hacker, as evident by her constant "hacks"
-(or "dispelling") of the rules and prejudice of the show's more stigmatic
+(or "dispellings") of the rules and prejudice of the show's more stigmatic
 geeks.           — https://is.gd/sLZCSJ
+%
+When there is a PyPy booboo, then PyPy goes byebye!
+    — https://www.shlomifish.org/humour.html#pypy_booboo
