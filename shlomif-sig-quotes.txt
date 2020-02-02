@@ -2549,3 +2549,7 @@ When there is a PyPy booboo, then PyPy goes byebye!
 %
 Chuck Norris is not a full stack developer. He is an empty queue developer.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+%
+Unix was not designed to stop you from doing stupid things, because that would
+also stop you from doing clever things.
+    — Doug Gwyn ( https://en.wikiquote.org/wiki/Unix )
