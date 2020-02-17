@@ -2553,3 +2553,6 @@ Chuck Norris is not a full stack developer. He is an empty queue developer.
 Unix was not designed to stop you from doing stupid things, because that would
 also stop you from doing clever things.
     — Doug Gwyn ( https://en.wikiquote.org/wiki/Unix )
+%
+"They told me I was gullible… and I believed them!"
+    — Unknown Source (via fortune-mod).
