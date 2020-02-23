@@ -2556,3 +2556,7 @@ also stop you from doing clever things.
 %
 "They told me I was gullible… and I believed them!"
     — Unknown Source (via fortune-mod).
+%
+In the beginning there was nothing.  And the Lord said "Let There Be Light!"
+And still there was nothing, but at least now you could see it.
+    — Unknown Source (via fortune-mod).
