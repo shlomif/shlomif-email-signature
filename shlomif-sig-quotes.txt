@@ -1,74 +1,74 @@
 I don’t believe in fairies. Oops! A fairy died.
 I don’t believe in fairies. Oops! Another fairy died.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 The prefix “God Said” has the extraordinary logical property of converting any
 statement that follows it into a true one.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 I used to be arrogant. Now I’m simply perfect.
-    — one of Shlomi Fish’s relatives, http://www.shlomifish.org/humour.html
+    — one of Shlomi Fish’s relatives, https://www.shlomifish.org/humour.html
 %
 Microsoft — making it all make sense. Ours.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Linux — Because Software Problems Should not Cost Money.
-    — http://www.shlomifish.org/art/linux_banner/
+    — https://www.shlomifish.org/art/linux_banner/
 %
 The American Lottery: all you need is a dollar and a dream. We will take the
 dollar, but you can keep the dream.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Judaism: God knows you will do shit, does nothing to prevent it, but makes you
 take the blame for it anyways.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Judaism: God is all the shit, all the non‐shit and all the intermediate
 demi‐shits in between.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Oh! I wish you could see the look on his face! Actually, I would have also
 liked to see the look on his face, but just then I woke up from the dream.
-    — http://www.shlomifish.org/humour/TheEnemy/
+    — https://www.shlomifish.org/humour/TheEnemy/
 %
 Had I not been already insane, I would have long ago driven myself mad.
-    — http://www.shlomifish.org/humour/TheEnemy/
+    — https://www.shlomifish.org/humour/TheEnemy/
 %
 A more experienced programmer does not make less bugs. He just realizes what
 went wrong more quickly.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Knuth is not God! It took him two days to build the Roman Empire.
-    — http://www.shlomifish.org/humour/bits/facts/Knuth/
+    — https://www.shlomifish.org/humour/bits/facts/Knuth/
 %
 Knuth is not God! God has already released TeX version 4.0.
-    — http://www.shlomifish.org/humour/bits/facts/Knuth/
+    — https://www.shlomifish.org/humour/bits/facts/Knuth/
 %
 There is no IGLU Cabal! None of them could pass the Turing test. But strangely
 enough a computer program they coded, could.
-    — http://www.shlomifish.org/humour/fortunes/shlomif.html
+    — https://www.shlomifish.org/humour/fortunes/shlomif.html
 %
 Knuth is not God! Typing “God” into Google and pressing “I’m Feeling Lucky”
 will not lead you to his homepage.
-    — http://www.shlomifish.org/humour/bits/facts/Knuth/
+    — https://www.shlomifish.org/humour/bits/facts/Knuth/
 %
 Knuth is not God! Unless you confuse him with Dijkstra.
-    — http://www.shlomifish.org/humour/bits/facts/Knuth/
+    — https://www.shlomifish.org/humour/bits/facts/Knuth/
 %
 C++ supports Object‐Oriented Programming roughly as much as COBOL supports
 Functional Programming.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 I hope that if it had not been clear before, it isn’t less clear now.
     — One of Shlomi Fish’s Technion Lecturers
 %
 My opinions may seem crazy but they all make sense. Insane sense, but sense
 nonetheless.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 There’s no point in keeping an idea to yourself since there’s a 10 to 1 chance
 that somebody already has it and will share it before you.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 An apple a day keeps the doctor away.
 Two apples a day will keep two doctors away.
@@ -76,33 +76,33 @@ Two apples a day will keep two doctors away.
 %
 “You are banished! You are banished! You are banished!
 Hey! I’m just kidding!”
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 He has a high degree of idealism, a high degree of stubbornness, and an even
 higher degree of inability to distiniguish between the two.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 If his programming is anything like his philosophising, he would find ten
 imaginary bugs in the “Hello World” program.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Hacker sees bug. Hacker does not want bug. Hacker fixes bug.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Tcl is Lisp on drugs. Using strings instead of S‐expressions for closures is
 Evil with one of those gigantic E’s you can find at the beginning of chapters.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 95% of Programmers consider 95% of the code they did not write, in the bottom
 5%.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 No self‐respecting tomboy would use Mandriva.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 C++ is complex, complexifying and complexified.
 (With apologies to the Oxford English Dictionary).
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
   :)-<
    +--
@@ -111,17 +111,17 @@ C++ is complex, complexifying and complexified.
 The first phrase that needs to be taught when teaching a new language is how to
 say “Do you speak English?”. The first thing that needs to be taught when
 teaching a new computer tool is how to exit it.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 He who reinvents the wheel, will understand much better how a wheel works.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 He who reinvents the wheel, may actually invent a much better wheel.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 He who reinvents the wheel will likely design a square wheel and spend a year
 trying to figure out why it doesn’t work properly.
-    — Nadav Har’El, http://www.shlomifish.org/humour.html
+    — Nadav Har’El, https://www.shlomifish.org/humour.html
 %
 Sometimes you don’t need to be familiar with a better alternative to know that
 something sucks. Take Microsoft Word for example.
@@ -134,14 +134,14 @@ minutes afterwards.
 %
 Real programmers don’t write workarounds. They tell their users to upgrade
 their software.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Jewish Atheists are the only true Atheists. They beat the hell out of Goy
 Atheists.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Except for boastfulness, rashness is my only defect!
-    — Based on http://www.shlomifish.org/humour/TheEnemy/ .
+    — Based on https://www.shlomifish.org/humour/TheEnemy/ .
 %
 If it isn’t in my email, it doesn’t exist.
 
@@ -153,56 +153,56 @@ email will conquer.
 The bad thing about hardware is that it sometimes works and it sometimes
 doesn’t. The good thing about software is that it’s consistent: it always
 does not work, and it always does not work in exactly the same way.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Larry Wall can understand the Perl code he wrote last year.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Larry Wall gets the colon.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 There are at least 137 Larry Walls in the U.S., but only one that matters.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Larry Wall applies a patch manually quicker than GNU patch.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Larry Wall dreams in Perl.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Larry Wall can program in his sleep.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Larry Wall is lazy, impatient and full of hubris.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Larry Wall has more dollars in the bank than in his Perl code.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Electrical Engineering studies. In the Technion. Been there. Done that. Forgot
 a lot. Remember too much.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 I’m not an actor — I just play one on T.V.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Trying to block Internet pornography is like climbing a waterfall and trying
 to stay dry. (— one of Shlomi Fish’s Internet Friends)
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 “I’m not straight — I’m Israeli.”
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 It does not mean what I think it means, but it means what *you* think it
 means.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 We don’t know his cellphone number, and even if we did, we would tell you that
 we didn’t know it.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 What do you mean by “WDYM”?
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 I’d do Windows-- , but this may result in an integer underflow.
     — an Israeli Linuxer.
@@ -219,19 +219,19 @@ about unit testing fortunes in freecell?
 %
 You can never truly appreciate The Gilmore Girls until you’ve watched it in
 the original Klingon.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 God gave us two eyes and ten fingers so we will type five times as much as we
 read.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Only wimps complain about bad code. Real men clean it up.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Wikipedia has a page about everything including the
-http://en.wikipedia.org/wiki/Kitchen_sink .
+https://en.wikipedia.org/wiki/Kitchen_sink .
 
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 *shlomif:* hack, hack, hack ; save ; make ; make test; commit. And start over.
 
@@ -241,58 +241,58 @@ test; swear some more; hack some more; save; make; make test; cheer; commit.
 *meep:* hack, make, test, segfault, oh noes, revert to previous revision
 %
 What does “IDK” stand for? I don’t know.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Give me ASCII or give me deaþ!
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 In the Technion, there are many ways to get from one place to the other, but
 they are all the same length.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 English spelling aims to be consistent. Publicly and methodically.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 COBOL is the old Java.
-    — http://is.gd/ClKAz5
+    — https://is.gd/ClKAz5
 %
 You name it — COBOL does not have it.
-    — http://is.gd/ClKAz5
+    — https://is.gd/ClKAz5
 %
 Chuck Norris wrote a complete Perl 6 implementation in a day, but then
 destroyed all evidence with his bare hands, so no‐one will know his secrets.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris refactors 10 million lines of Perl code before lunch.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is his own boss. If you hire him, he’ll tell your boss what to
-do.   — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+do.   — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris read the entire English Wikipedia in 24 hours. Twice.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris does not code; when he sits at a computer, it just does whatever
 he wants. (By: Kattana.)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris doesn’t make mistakes. (Su‐Shee) He corrects God. (Shlomi Fish)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is the ghost author of the entire Debian GNU/Linux distribution.
 And he wrote it in 24 hours, while taking snack breaks.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris doesn’t commit changes, the changes commit for him.
     — Araujo
 %
 Bugs are too afraid to reproduce on Chuck Norris’ computer. As a result, when
 he uses Microsoft Windows, it behaves just like a Linux system.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is a real programmer. He writes programs by implementing the most
 optimised machines for them using real atoms.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Deletionists delete Wikipedia articles that they consider lame.
 
@@ -300,98 +300,98 @@ Chuck Norris deletes Deletionists whom he considers lame.
 %
 There are no deletionists. Only Wikipedia articles which Chuck Norris allows
 to live. (By: joeyadams)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 No one knows all of Perl. Not even Larry Wall. Except Chuck Norris, who knows
 all of Perl 5, Perl 6, and can answer questions about the design of Perl 7.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris reads all messages posted to LKML (= the Linux Kernel Mailing
 List), understands them all, and he kills all gnomes he sees in sight.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 When Chuck Norris uses Gentoo, “emerge kde” finishes in under a minute. A
 computer cannot afford to keep Chuck waiting for too long.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is the greatest man in history. He killed all the great men who
 could ever pose a competition.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 “My only boss is God. And Chuck Norris who is his boss.”
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can make the statement “This statement is false.” a true one.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 XSLT is the worst thing since non‐sliced bread.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Mothers used to tell their children stories about XSLT to scare them.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 XSLT is the number one cause of programmers’ suicides since Visual Basic 1.0.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 The X in XSLT stands for eXtermination.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 The only things worse than XSLT are Excel and Sugar‐Less Tea (XSLT).
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 XSLT is what Chuck Norris has nightmares of.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Confucius says: “XSLT made me realise humanity was hopeless.”.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 God considered inflicting XSLT as the tenth plague of Egypt, but then thought
 it would be too evil.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 In Soviet Russia, XSLT codes you. Badly!
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Satan condemned Hitler for a million years of writing XSLT.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 The KGB used to torture their victims by having them look at scrolling XSLT
 code.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 “My name is Inigo Montoya. You forced my father to write XSLT. Prepare to die!
 And be thankful I don’t force you to write XSLT.”
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Stray XSLT code causes more deaths than road accidents.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
-http://en.wikipedia.org/wiki/Evil redirects to XSLT.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+https://en.wikipedia.org/wiki/Evil redirects to XSLT.
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Mastering ‘cat’ is almost as difficult as herding cats.
-    — http://www.shlomifish.org/humour/bits/Mastering-Cat/
+    — https://www.shlomifish.org/humour/bits/Mastering-Cat/
 %
 NASA Uses COBOL.
-    — http://is.gd/ClKAz5
+    — https://is.gd/ClKAz5
 %
 When a FLOSS developer says they will work on something, he or she means
 “maybe”.
-    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
+    — https://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 * Backward compatibility is your worst enemy.
 * Backward compatibility is your users’ best friend.
-    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
+    — https://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 Every successful open source project will eventually spawn a sub‐project.
-    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
+    — https://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 Duplicate effort in FOSS is inevitable. Live with it.
-    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
+    — https://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 The number of items on an open source project’s to‐do list always grows or
 remains constant.
-    — http://www.shlomifish.org/humour/fortunes/osp_rules.html
+    — https://www.shlomifish.org/humour/fortunes/osp_rules.html
 %
 <rindolf> buu: do you have a functional spec? An architecture document? An
 interface whitepaper? A developer’s guide? A user manual? A “The BL Book” and
@@ -402,7 +402,7 @@ interface whitepaper? A developer’s guide? A user manual? A “The BL Book” 
 isn’t a good reason for it.
 %
 Become an awesome Perl ninja rockstar vampire zombie pirate.
-    — http://is.gd/T2uCO7
+    — https://is.gd/T2uCO7
 %
 <PerlJam> I’m trying to achieve world peace and this regex is the last thing
 standing in my way! ;)
@@ -424,7 +424,7 @@ permanently damaged. Some people are undoubtedly right.
     — Larry Wall
 %
 bzr is slower than Subversion in combination with Sourceforge.
-    — Sjors, http://dazjorz.com/
+    — Sjors, https://dazjorz.com/
 %
 There is no IGLU Cabal! Its members can be arranged in N! orders to form N!
 different Cabals. The algorithm to find which order formulates the correct
@@ -459,10 +459,10 @@ APL, Windows NT 4.0 Batch script and Autocad Lisp — I’m sure you can handle
 all of them because none of them is Perl. ;-).
 %
 Dax: yep, space. Nothing but nothing all around.
-    — http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+    — https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
 %
 Q: I’ll be about 6.5 milliard Terran years next September.
-    — http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+    — https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
 %
 Sisko: Q: would it be OK if my crew brought along their phasers with them?
 
@@ -471,42 +471,42 @@ them will work, but I don’t mind them taking them.
 %
 Q2: Busy people are unproductive. We are very productive and so we’re never
 busy.
-    — http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+    — https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
 %
 Katie: in case you have any interest in me, I should note that I have a policy
 against getting involved with people who are 4 times my senior or more.
-    — http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+    — https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
 %
 When Chuck Norris uses git, he takes a coffee break after initiating every git
 commit. And then he waits for the commit to finish.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris has actually been using Perl 6 since 1987, and has been waiting
 for Larry to play catch‐up.
-    — dukeleto ; http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — dukeleto ; https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris does not code; when he sits at a computer, it just does whatever
 he wants. — Kattana on Freenode’s #perl6 .
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Logic sucks. Morality sucks. Reality sucks. Deal with it!
 %
 Chuck Norris can end world hunger, but he thinks that hungry people make
 humanity a more challenging adversary.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris writes understandable Perl code.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can read Perl code that was RSA encrypted.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If you have the same ideas as everybody else, but have them one week earlier
 than everyone else — then you will be hailed as a visionary. But if you have
 them five years earlier, you will be named a lunatic. ( Barry Jones )
 %
 Live as if you were to die tomorrow. Learn as if you were to live forever.
-    — http://en.wikiquote.org/wiki/Mohandas_Gandhi (Disputed)
+    — https://en.wikiquote.org/wiki/Mohandas_Gandhi (Disputed)
 %
 I learned a lot from my teachers, and from my friends more than my teachers,
 and from my pupils the most. — Rabbi Hanina
@@ -531,13 +531,13 @@ Do not meddle in the affairs of Dragons, for you are crunchy and taste good
 with ketchup.                                       — Unknown source.
 %
 “I simply hate, detest, loathe, despise, and abhor redundancy.”
-    — http://uncyclopedia.org/wiki/Redundancy
+    — https://uncyclopedia.org/wiki/Redundancy
 %
 In Soviet Russia, every time you kill a kitten, God masturbates.
-    — http://linux.slashdot.org/comments.pl?sid=195378&cid=16009070
+    — https://linux.slashdot.org/comments.pl?sid=195378&cid=16009070
 %
 Tel Aviv, a functional definition: free parking space‐free space.
-    — Shachar Shemesh ( http://blog.shemesh.biz/?p=435 )
+    — Shachar Shemesh ( https://blog.shemesh.biz/?p=435 )
 %
 Sesquipedallianism: making excessive use of long words.
 %
@@ -548,18 +548,18 @@ Dummies.”
 A golfed Java program will be longer than non‐golf Perl or Python code.
 %
 “We’re not just doing it for money… we’re doing it for a shitload of money!”
-    — Spaceballs, http://www.imdb.com/title/tt0094012/
+    — Spaceballs, https://www.imdb.com/title/tt0094012/
 %
 Lone Starr: “Just what we need — a Druish princess.”
 Barf: “Funny! She doesn’t look Druish.”
-    — Spaceballs, http://www.imdb.com/title/tt0094012/
+    — Spaceballs, https://www.imdb.com/title/tt0094012/
 %
 The cool thing about Vim is — you find something interesting with every typo.
     — Su‐Shee on Freenode’s #perl .
 %
 Larry Wall *does* know all of Perl. However, he pretends to be wrong
 or misinformed, so people will underestimate him.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Real programmers use a nice editor and a nice programming language and get it
 done in less than O(N!).
@@ -586,7 +586,7 @@ And truth be told, I’m lying.
 %
 Yesterday I asked one of my students if she knew what an encyclopedia is, and
 she said: “Is it something like Wikipedia?”.
-        — http://twitter.com/alisonclement/status/8421314259
+        — https://twitter.com/alisonclement/status/8421314259
 %
 <Botje>  Khisanth =~ s/must sleep/must give Botje all my money/ .
     — Freenode’s #perl
@@ -595,7 +595,7 @@ CPAN thrives *because* of the unfettered uploading of shit, not in spite of it.
     — Andy Lester
 %
 Real men don’t listen to sentences that start with “Real men don’t”.
-    — http://whatsup.org.il/article/6023
+    — https://whatsup.org.il/article/6023
 %
 <ew73>  VB.NET is all of the fun of enforced privacy OO with all of the power
 of BASIC.           — Freenode’s #perl
@@ -611,48 +611,48 @@ Got to be good‐looking ’cause he’s so hard to see.
     — The Beatles, “Come Together”
 %
 Larry Wall’s pure‐Perl code is faster than Assembly.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Chuck Norris once wrote a 10 million lines C++ program in Microsoft Notepad
 without having to use the backspace key. And it compiled without errors or
 warnings, and was 100% bug‐free.
 %
 Larry Wall has been changing the world. By modifying its very source code.
-    — http://www.shlomifish.org/humour/bits/facts/Larry-Wall/
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Comedy is simply a funny way of being serious.
-    — http://en.wikiquote.org/wiki/Peter_Ustinov
+    — https://en.wikiquote.org/wiki/Peter_Ustinov
 %
 A kid always wishes they were older until they are 18. Afterwards, they always
 wish they were younger.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Sophie: Let’s suppose you have a table with 2^n cups…
 Jack: Wait a second! Is ‘n’ a natural number?
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 If God exists and is the ego‐maniacal, sadistic and helpless creature that is
 described in the Old Testament, then we’re in deep trouble.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 I might be mad. But I’m a mad genius.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 To err is human; to apologise — divine.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 To have bugs is human; to fix them — divine.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 To have bugs is human; to find them — divine.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 An original philosopher knows the right combination of ideas to steal.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 I promised, I forgot, I did not keep my promise — just shoot me, and get on
 with it!
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 mplayer 0.9.999.2010.03.11-rc5-adc83b19e793491b1c6ea0fd8b46cd9f32e592fc is
 now available for download.
@@ -665,21 +665,21 @@ Shlomi: if you read my stories, I’ll give you 1,000,000 virtual dollars.
 Sjors: causing me to have a lot of extra virtual time!
 %
 If Botticelli were alive today, he’d be working for Vogue.
-    — http://en.wikiquote.org/wiki/Peter_Ustinov
+    — https://en.wikiquote.org/wiki/Peter_Ustinov
 %
 We have nothing to fear but fear itself. Fear has nothing to fear but XSLT.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Xena the warrior princess can meet King David for breakfast and Julius Caesar
 for lunch. Without time travel.
-    — http://www.shlomifish.org/humour/bits/facts/Xena/
+    — https://www.shlomifish.org/humour/bits/facts/Xena/
 %
 No one calls Xena the warrior princess “Zeena” to her face and survives.
 Luckily for you, she hasn’t visited the modern day United States yet.
-    — http://www.shlomifish.org/humour/bits/facts/Xena/
+    — https://www.shlomifish.org/humour/bits/facts/Xena/
 %
 Beliefs are what divide people. Doubt unites them.
-    — http://en.wikiquote.org/wiki/Peter_Ustinov
+    — https://en.wikiquote.org/wiki/Peter_Ustinov
 %
 In Soviet Russia, cats own you. No, wait! Cats own you everywhere.
 %
@@ -696,25 +696,25 @@ the knights who say ‘git, git, git, cogito — Linus!’.”
 %
 There was one Napoleon, one George Washington, and one me!
     — Big Boy Caprice in
-       http://en.wikiquote.org/wiki/Dick_Tracy_%281990_film%29
+       https://en.wikiquote.org/wiki/Dick_Tracy_%281990_film%29
 %
 Emacs is a nice operating system, but what it lacks, in order to compete with
 Linux, is a good text editor.
-    — based on http://en.wikiquote.org/wiki/Emacs
+    — based on https://en.wikiquote.org/wiki/Emacs
 %
 Skill without imagination is craftsmanship and gives us many useful objects
 such as wickerwork picnic baskets.  Imagination without skill gives us modern
 art.            — Tom Stoppard
 %
 The best thing about a UDP joke is that I don’t care if you get it or not.
-    — http://gregsowell.com/?p=2742
+    — https://gregsowell.com/?p=2742
 %
 If at first you don’t succeed, destroy all evidence that you tried.
     — Unknown
 %
 Staring at XSLT code for one minute has a 67% chance of making one permanently
 blind.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Larry Wall can make shit up, and the computer will understand what he means.
 %
@@ -747,16 +747,16 @@ mountain. If the mountain will not come to Chuck Norris, then the mountain
 will suffer Norris’s wrath for not complying with his whims.
 %
 We agree. But do we agree to agree?
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 A wiseman can learn from a fool much more than a fool can ever learn from a
-wiseman.               — http://en.wikiquote.org/wiki/Cato_the_Elder
+wiseman.               — https://en.wikiquote.org/wiki/Cato_the_Elder
 %
 sed and awk make me sad and awkward.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 Chuck Norris has 0 messages in his E-mail inbox. Including already read ones.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If a million Shakespeares had to write together, they would write like a monkey.
     — based on Stephen Wright, via Nadav Har’El.
@@ -767,17 +767,17 @@ and a pound of sesame seeds?”
 %
 Chuck Norris was never a newbie! He will kill anyone who implies otherwise. In
 a very not newbie-like manner.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Only perl and Chuck Norris can parse Perl.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 All Chuck Norris has to do is *look* at Perl code and it interprets itself
 out of fear and respect. — DrForr
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris taught God how to create the universe.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The conversation about how someone shouldn’t do something in an IRC channel is
 always at least twice as long as the text the accused person created in the
@@ -785,36 +785,36 @@ first place — Chris62vw’s Rule
 %
 That’s why I feed my leprechaun every day — because there are not enough
 phonemes in Navajo to tell him to get his act together and find a job.
-    — My comment on http://www.youtube.com/watch?v=izne8XcaBBg .
+    — My comment on https://www.youtube.com/watch?v=izne8XcaBBg .
 %
 Chuck Norris is the reason why the Knights who until Recently Said “Ni”,
 are no longer saying “Ni”.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is not afraid of superstitions. Superstitions are afraid of Chuck
 Norris. (via Dov Levenglick)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 In Soviet Russia, superstition believes in you. — Sawyer X
 %
 Where they have burned books, they will end in burning human beings.
-    — http://en.wikiquote.org/wiki/Heinrich_Heine
+    — https://en.wikiquote.org/wiki/Heinrich_Heine
 %
 Quark: “Too much of a good thing is a bad thing. But only for your customers”.
 Rule of acquisition No. 172.
-    — http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+    — https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
 %
 Why can’t we ever attempt to solve a problem in this country without having
 a “War” on it? -- Rich Thomson, talk.politics.misc
 %
 Chuck Norris *does* expect the Spanish Inquisition.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The Spanish Inquisition does not expect Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 A wood chuck can’t chuck wood. Chuck Norris can chuck wood chucks.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Java is a DSL (= Domain Specific Language) to transform big XML documents
 into long exception stack traces. — Scott Bellware
@@ -848,7 +848,7 @@ The English Wikipedia: now you don’t see it — now you do.
 %
 The devil created a 10th circle of hell for the inventors of XSLT, because
 the first nine circles were too mild for them.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 I have a brilliant idea: a distributed, NoSQL, Webscale™ /dev/null alternative.
 I’m going to patent it. (Inspired by arubin on ##programming.)
@@ -858,54 +858,54 @@ oh well match something of anything or nothing, and, please, a lot of it ;)
 %
 Objective jIronPerl++.NET Enterprise Edition♭ Professional Home Premium 64-bit
 Single-user.
-    — based on a Freenode #perl conversation ( http://is.gd/cCUBY2 )
+    — based on a Freenode #perl conversation ( https://is.gd/cCUBY2 )
 %
 All language designers are arrogant. Goes with the territory… :-)
-    — http://en.wikiquote.org/wiki/Larry_Wall
+    — https://en.wikiquote.org/wiki/Larry_Wall
 %
 <Su-Shee> Absolutely. Also: a German dog barks “wau” and a cat meows “miau”
 <rindolf> Su-Shee: German animals are true German patriots.
 %
 The NSA don’t publish. They perish.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The NSA employs the largest number of mathematicians with Ph.Ds. And the most
 stupid and incompetent ones.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The NSA has a patent for an efficient process for collecting a lot of
 information and doing nothing with it.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The Bajoran scholars have positively identified Benjamin Sisko as The Emissary.
 They also positively identified the NSA headquarters as The Dungeon.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 One of Buffy the Vampire Slayer’s episodes took place in the NSA headquarters,
 but had to be destroyed, because all of the test audience had uncontrollable
 panic attacks.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The NSA knows what you did last summer. But no one, in the NSA or outside it,
 knows why they should.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The more the NSA think, the less they want to be able to think. So they think
 less and less.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 With the NSA’s budget you would expect evil to be extinct by now. (By Kika).
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 Think of the most incompetent organisation possible. The NSA would be even
 more incompetent than that.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The NSA headquarters are the unhappiest place on Earth.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 Yogurt: “Never overestimate the power of the NSA.”
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The gods help them that help themselves. ( Aesop )
 %
@@ -915,79 +915,79 @@ mountain.  — Francis Bacon
 Reality to be conquered, must be obeyed.  — Francis Bacon
 %
 Trust in God, but tie your camel.
-    — http://en.wikipedia.org/wiki/God_helps_those_who_help_themselves
+    — https://en.wikipedia.org/wiki/God_helps_those_who_help_themselves
 %
 God helps them that help God help them.
-    — http://shlomif.livejournal.com/66017.html
+    — https://shlomif.livejournal.com/66017.html
 %
  <rindolf>  You are all Nazis! ;-)
   <tadzik>  People who invoke Godwin’s law are worse than Hitler.
     — Freenode’s #perl
 %
 /usr/bin/perl consults Chuck Norris with how to parse Perl.
-    — Nadav Vinik ; http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — Nadav Vinik ; https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris helps the gods that help themselves.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If the mountain does not come to Muhammad, then Chuck Norris will bring the
 mountain over.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 An apple a day will keep Chuck Norris away. But not for long.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Reality to be conquered, must be obeyed. You’d better obey Chuck Norris or
 he’ll conquer you.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris had a problem so he decided to use regular expressions. Now,
 all the World’s problems are solved.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Buffy will always find a wooden stake to slay vampires, even if it means
 she will have travelled 100 years back in time, to plant a tree nearby.
-    — http://www.shlomifish.org/humour/bits/facts/Buffy/
+    — https://www.shlomifish.org/humour/bits/facts/Buffy/
 %
 Buffy Summers does not really need stakes to slay vampires, because her kisses
 are deadly for them. And that includes those that she blows in the air.
-    — http://www.shlomifish.org/humour/bits/facts/Buffy/
+    — https://www.shlomifish.org/humour/bits/facts/Buffy/
 %
 A is A and A is not not-A — unless Chuck Norris says so.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can make East and West meet.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 When Chuck Norris orders Pizza, it arrives before he presses the OK button.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris does not need to heat up food. The food is already warm right
 after he took it out of the fridge.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck’s idea of a short walk is to the Andromeda Galaxy and back.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The Chuck Norris of the Buffyverse, has been secretly training under Buffy’s
 supervision, and so far - lost every battle with her.
-    — http://www.shlomifish.org/humour/bits/facts/Buffy/
+    — https://www.shlomifish.org/humour/bits/facts/Buffy/
 %
 Buffy is so hot, that you would totally love to fight her. And lose. (by
 Dan Dascalescu.)
-    — http://www.shlomifish.org/humour/bits/facts/Buffy/
+    — https://www.shlomifish.org/humour/bits/facts/Buffy/
 %
 Chuck Norris hasn’t taken these facts down yet, so they must be true.
 (by Cantide)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 For every A, Chuck Norris is both A and not-A.
 Chuck Norris is freaking everything.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Tomorrow never dies, unless Chuck Norris volunteers to take it out of its
 misery.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 God created the world in 6 days and rested on the 7th. Chuck Norris created
 the world in one day, and has been incrementally destroying it every day since,
@@ -995,76 +995,76 @@ without rest.
 %
 Well, one thing I can tell you about parenthood is that such things
 can progress from figurative to literal, extremely quickly.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 I can imagine the headline: “Sarah Michelle Gellar, who played
 Buffy the vampire slayer, murdered in cold blood by child daughter.”
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 The apple completely supplanted the tree.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 SGlau: Between the President and God, I don’t suppose you mean the Pope?
 SMG: Oh no… You realise I’m Jewish.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 I am the Little Red Riding Hood of Messiahs. My apocalypse is badder than
 yours.
-    — http://www.shlomifish.org/philosophy/the-eternal-jew/#reception
+    — https://www.shlomifish.org/philosophy/the-eternal-jew/#reception
 %
 “Publish or Perish” → “Life or Death”
-    — http://unarmed.shlomifish.org/2615.html
+    — https://unarmed.shlomifish.org/2615.html
 %
 SGlau: I suppose serving here at the NSA is also one of your 99 problems?
 Daniel: Hey, this place is at least ninety of my problems.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 Selina: Toothpicks? Have you blokes been watching too much Sesame Street?
 Warrior #1: Why, of course! Every mighty Klingon warrior has watched Sesame
 Street.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 Jessica on the phone: Sel, you’re getting strange lately, but you are becoming
 more amusing in the process.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 Selina: By the way, apparently, we will never be able to truly appreciate
 Sesame Street until we watch it in the original Klingon.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 Mephiqoleth: THERE ARE JEWS OF MANY SPECIES.
 Selina: Really? That’s great - can I have a Jewish lady-cat? I want one
 so she can mother cute little Jewish kittens.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 Clarissa Darling can start from “I think therefore I am” and prove that
 Isaac Newton formulated the Law of Gravitation back in 1687.
-    — http://www.shlomifish.org/humour/bits/facts/Clarissa/
+    — https://www.shlomifish.org/humour/bits/facts/Clarissa/
 %
 Gödel’s Incompleteness Theorem is about to be replaced by the
 [Clarissa] Darling “Like, Totally!” Completeness Theorem.
-    — http://www.shlomifish.org/humour/bits/facts/Clarissa/
+    — https://www.shlomifish.org/humour/bits/facts/Clarissa/
 %
 Clarissa Darling will win over Chuck Norris in a battle of wits.
-    — http://www.shlomifish.org/humour/bits/facts/Clarissa/
+    — https://www.shlomifish.org/humour/bits/facts/Clarissa/
 %
  <petn-randall>  Writing your own nirvana may be easier than writing a good
                  blog engine ;)
-    — http://is.gd/3Hh82T
+    — https://is.gd/3Hh82T
 %
  * rindolf demands equal rights for years, minutes, hours and days to also get
    YAAKOV’S GREAT HUGE LOVE.
-    —  http://www.shlomifish.org/humour/fortunes/sharp-perl.html
+    —  https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
  <rindolf>  I LOVE YOU ALL WITH YAAKOV’S GREAT HUGE LOVE.
-    —  http://www.shlomifish.org/humour/fortunes/sharp-perl.html
+    —  https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
  <rindolf>  RESOLVED / WONT_FIX / FUCK_YOU … story of my life.
-    —  http://www.shlomifish.org/humour/fortunes/sharp-perl.html
+    —  https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
  <Su-Shee>  Botje: “you can’t kill Botje” isn’t Newton’s first law.
  <Su-Shee>  It’s not even the 5th.
-    —  http://www.shlomifish.org/humour/fortunes/sharp-perl.html
+    —  https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
  <Su-Shee>  rindolf: yeah because Perl’s crypt() is TOTALLY different from all
             the other crypt()s. ;)
@@ -1073,69 +1073,69 @@ Clarissa Darling will win over Chuck Norris in a battle of wits.
 %
 “A is A, and A is not not-A? WTH is he talking about??! Of course A can be
 not-A! I want a little of the stuff he’s on!”
-    — Initial reaction to the http://en.wikipedia.org/wiki/Organon
+    — Initial reaction to the https://en.wikipedia.org/wiki/Organon
 %
 Laziness will bring the downfall of mankind, but I can’t be arsed to do
 anything about it.
 %
 The Angel of Death cannot keep up with Chuck Norris’s throughput of killing.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 First the NSA ignores “silly” Internet memes, then they laugh at them,
 then they are unable to fight them, and then they lose.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 The NSA is an intelligence agency which thinks it can use Artificial
 Ultra-Stupidity (AUS) to wade through tons of irrelevant information and
 reach genuine understanding.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 Your next job after one in @NSACareers, will be as a dead corpse in a coffin,
 6 feet underground, or as a patient in a psychiatric ward.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 Hackers bend the rules, so the NSA hates them. Instead, the NSA accumulates
 rules, observes them, and accepts their fate: death.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 SGlau: Sounds really crazy. Are you sure you’re OK?
 SMG: No, I’m not. My secret for success was that I was never completely sane,
 heh.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 SMG: It was 1997-1998ish, Buffy started airing. So one day a group of
 yeshivah pupils arrived to the studios saying they have some numereological
 insights from the Jewish bible, about what will happen in Sunnydale next.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 Daniel: Yeah, those guys [= NSA] don’t publish…
 Andrew: They perish, man.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 Yes, of course. But a girl’s gotta do what a girl’s gotta do. For her
 country and the benefit of man-kind of course. [She puts her hand in the
 air] God bless America!
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 SGlau: Heh, you’re looking at me like I’m the only pretty girl for miles.
 George: Heh, that would not be an overstatement. The NSA is very far
 from being anything like the Israeli military.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 George: I guess you can enter now. I’m just following orders.
 SGlau: The Nuremberg defense!
 George: This place gives you no other option.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 SGlau: You want to publish… As a fellow artist, I want to publish too.
 Dr. Feldman: “Publish or Perish” - they always told us that when I got my
 Ph.D.
-    — http://www.shlomifish.org/humour/Summerschool-at-the-NSA/
+    — https://www.shlomifish.org/humour/Summerschool-at-the-NSA/
 %
 The Guide: THE PORTRAYAL OF BUFFY SUMMERS, THE VAMPIRE SLAYER, IN
 THE TELEVISION SHOW WAS VERY EXAGGERATED. THE REAL BUFFY IN QUESTION IS AN
 INCOMPETENT SLAYER. EVEN I AM BETTER THAN HER.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 Alan: Hello, Miss Mandrake. I’m Alan. [she shakes his hand.]
 John: John. [shakes his hand.]
@@ -1144,138 +1144,138 @@ Selina: [Amusingly] Selina Mandrake, mighty pirate.
 %
 Selina: How may I be of service?
 Alan: Well, according to the Codex, we’re supposed to be slain by you.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 John: Hey, we are completely non-violent vampires. We don’t suck blood.
 Selina: I thought all vampires suck blood.
 John: Bullocks, hen. Vampires come in all shapes and sizes.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 Selina: Quite a weird lot this supernatural underworld seems to be.
-    — http://www.shlomifish.org/humour/Selina-Mandrake/
+    — https://www.shlomifish.org/humour/Selina-Mandrake/
 %
 The Messiah will come when everybody assume his role.
-    — http://www.shlomifish.org/philosophy/the-eternal-jew/
+    — https://www.shlomifish.org/philosophy/the-eternal-jew/
 %
 I am the most powerful man on Earth.
-    — http://www.shlomifish.org/philosophy/the-eternal-jew/
+    — https://www.shlomifish.org/philosophy/the-eternal-jew/
 %
     <rindolf>  preaction: every mighty Klingon warrior uses Vim.
   <preaction>  only green-blooded Romulan scum use Emacs
-    — #perl, http://is.gd/grdEqT
+    — #perl, https://is.gd/grdEqT
 %
   <rindolf>  Barbapappa: Buffy Summers > Chuck Norris
 <preaction>  so, Chuck Norris is a vampire?
   <rindolf>  preaction: no, but in the Buffyverse, he’s getting pwned by Buffy
-    — #perl, http://is.gd/grdEqT
+    — #perl, https://is.gd/grdEqT
 %
 In Soviet Russia, joke is tired of you.
     — apeiron, #perl
 %
 All truth is God’s truth.
-    — http://www.shlomifish.org/humour/fortunes/show.cgi?id=larry-wall-all-truth-is-gods-truh
+    — https://www.shlomifish.org/humour/fortunes/show.cgi?id=larry-wall-all-truth-is-gods-truh
 %
 What's the point of claiming your code is illegal?
 I might anger a few, but I just wanna sue
-    — http://www.shlomifish.org/humour/bits/Can-I-SCO-Now/
+    — https://www.shlomifish.org/humour/bits/Can-I-SCO-Now/
 %
 Can I SCO now? Sue who you wanna sue, it doesn't matter anyhoo, it's time to
 litigate.
-    — http://www.shlomifish.org/humour/bits/Can-I-SCO-Now/
+    — https://www.shlomifish.org/humour/bits/Can-I-SCO-Now/
 %
 Officer: Captain, there’s a new star system a few thousands of lightyears
 away, and its sun has an irregular shape.
-    — http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+    — https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
 %
 Major Kira: Well, duh! The prophets spoke of several of The Invisible’s
 children and their whereabouts.
 Jadzia: Major, you and I will need to talk someday about that “duh”.
-    — http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+    — https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
 %
 Vizzini: He didn’t fall?! Inconceivable!
 Inigo Montoya: You keep using that word. I do not think it means what you
 think it means.
-    — http://en.wikiquote.org/wiki/The_Princess_Bride_%28film%29
+    — https://en.wikiquote.org/wiki/The_Princess_Bride_%28film%29
 %
 Inigo Montoya: You seem a decent fellow. I hate to kill you.
 The Man in Black: You seem a decent fellow. I hate to die.
-    — http://en.wikiquote.org/wiki/The_Princess_Bride_%28film%29
+    — https://en.wikiquote.org/wiki/The_Princess_Bride_%28film%29
 %
 Chuck Norris is always right. Even if he says that “A is not-A”, he would
 be right, because Logic is subject to his whims.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris does not own a dishwasher. His dishes know better than to become
 dirty.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The Angel of Death cannot keep up with Chuck Norris’s throughput of killing.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Computers are useless because they can only give you answers. Chuck Norris
 is not useless, because he knows the questions which these answers belong to.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is Vito Corleone’s godfather. (by ZadYree)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris will kill everyone who has not read these factoids.
 Slowly and painfully.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris could have built the Roman Empire in a day. And it would have
 taken him even less time to destroy it.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 A man in love is incomplete until he is married.  Then he is finished.
     — Zsa Zsa Gabor, "Newsweek"
 %
 Chuck Norris once counted all the real numbers on his fingers. (by: ZadYree)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Only two things are infinite: the universe, and Chuck Norris’s destruction
 ability. And we cannot be sure about the former thanks to the latter.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris knows who John Galt is.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Medusa’s gaze can turn people into stone. Buffy’s gaze can turn Medusa into
 stone.
-    — http://www.shlomifish.org/humour/bits/facts/Buffy/
+    — https://www.shlomifish.org/humour/bits/facts/Buffy/
 %
 I’m worser at superlatives.
 And I don’t ever use no double negatives.
-    — James at War, “Bad Grammar”: http://www.youtube.com/watch?v=Mj6QqCH7g0Q
+    — James at War, “Bad Grammar”: https://www.youtube.com/watch?v=Mj6QqCH7g0Q
 %
 Chuck Norris won the Nobel Peace Prize. For making millions of people rest
 in peace.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Thank you! I was wondering why I hated Eclipse so much, and you have put your
 finger on it. It’s exactly like a 21st century Emacs.
     — Shachar Shemesh on the Haifa Linux Club mailing list.
 %
 God is Chuck Norris, for extremely large values of God.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can become root on OpenBSD. By using nothing but /bin/echo.
 (By: ZadYree and Shlomi Fish)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is the reason why OpenBSD is called OpenBSD. They wanted to
 call it LockedDownBSD but couldn't find a way to keep Chuck Norris out!
-(By Andrew Brehm) — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+(By Andrew Brehm) — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Wikipedia deletionists Don’t Die. They lose notability and get deleted.
-    — http://www.shlomifish.org/humour.html
+    — https://www.shlomifish.org/humour.html
 %
 I figured wrong (with a capital R).
     — Harvey Danger: “Wine, Women and Song”.
 %
 For all you know, you may not exist, and Chuck Norris convinced you that you
 do.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 I HAVE NEITHER BEEN THERE NOR DONE THAT
     — Bart Simpson on chalkboard in episode AABF17
@@ -1290,181 +1290,181 @@ Eclipse.
 %
 Chuck Norris wrote an interpreter for a Turing-complete language using only
 NOPs.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
   <rindolf> Java: because there is nothing better to do with 16 GB of RAM.
     — Freenode’s ##programming
 %
 Chuck Norris does not keep any numbers on his mobile phone’s address book.
 Instead, he memorised the entire phone directory.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 When Chuck Norris drops a cat, it falls on its back so it won’t lose
 eye contact with Chuck.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If Chuck Norris had dropped his toasts, they would have fallen on the dry
 side, so they would have stayed on his good side. But Chuck Norris never
 drops toasts. (ZadYree and Shlomi Fish)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can solve MS Freecell deal No. 11,982. With Zero Freecells.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris once solved 100 million deals of Freecell in a minute. By hand.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 After Chuck Norris said “I don’t believe in fairies.”, fairies have become
 extinct.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 It’s kinda, sort-of… pretty much… quite… awesome I tell you - awesome!
 Got it? It’s kinda awesome!
 %
 Chuck Norris caught the early bird before she caught the worm.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris helps God help those that help themselves.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 “If it’s not bloat, it’s not us.”, said Richard Stallman, the colourful head of
 the GNU project, and started to sing the Free Software song.
     — “The GNU Project Will Integrate GNU Guile into GNU coreutils”
 %
 God ties Chuck Norris’ camel.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can convince everyone that the colour of the bikeshed should be
 his favourite colour.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris finished building the bike-shed by the time people stopped
 arguing what its colour should be.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris’ E-mails are signed with “Sent using Chuck Norris’ brain (which
 he can also kill you using it).”.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 When Chuck Norris receives an E-mail signed “Sent from my iPhone”, he makes
 sure that iPhone won’t be able to send any more E-mails — to Norris or
 otherwise.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 “Stop reinventing wheels, start building space rockets.”
     — The motto of the Comprehensive Perl Archive Network
 %
 Chuck Norris wrote a program in Python that was easier to understand after
 being encrypted with RSA.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 When Chuck Norris disses your product, it’s not good publicity, even though
 you can bet he’ll get the name right.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 ANSI C - There is usually one way to do it, but there’s more than one way to
 optimise it.
-    — http://www.shlomifish.org/humour/ways_to_do_it.html
+    — https://www.shlomifish.org/humour/ways_to_do_it.html
 %
 Visual Basic - The only way to do it is to use a third party component.
-    — http://www.shlomifish.org/humour/ways_to_do_it.html
+    — https://www.shlomifish.org/humour/ways_to_do_it.html
 %
 Python - There’s only one way to do it. The one true way of doing it. And then
 there are others.
-    — http://www.shlomifish.org/humour/ways_to_do_it.html
+    — https://www.shlomifish.org/humour/ways_to_do_it.html
 %
 Forth - There are several ways to write it, but no way to read it.
-    — http://www.shlomifish.org/humour/ways_to_do_it.html
+    — https://www.shlomifish.org/humour/ways_to_do_it.html
 %
 The C Preprocessor - There’s not supposed to be a way to do it.
-    — http://www.shlomifish.org/humour/ways_to_do_it.html
+    — https://www.shlomifish.org/humour/ways_to_do_it.html
 %
 Fortran - there isn’t a way to do it... oh wait! Now there is.
-    — http://www.shlomifish.org/humour/ways_to_do_it.html
+    — https://www.shlomifish.org/humour/ways_to_do_it.html
 %
 Chuck Norris knows if you’re a dog on the Internet.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If a tree falls down in the middle of the forest, and there’s no one there to
 hear it… what colour is the tree?
     — Monkey Island 2: LeChuck’s Revenge
 %
 Chuck Norris was the 1,000,000,000th viewer of the Gangnam Style video on
-YouTube. — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+YouTube. — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris used these facts to his advantage, making a huge comeback. He
 didn’t get mad — he got even!
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can only convince you that you're deceased. Summer Glau can
 also convince you that you're alive, which is much harder.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Summer Glau can hold and use a gun in each hand. There's no way that Jennifer
 Lawrence can hold and use a bow in each hand.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Summer Glau does not have to hurt you if she doesn't want to . Chuck Norris
 kills everyone in sight.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Summer Glau has better ways to make a difference than by being violent.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris has 99 problems including a bitch.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 It takes Summer Glau exactly a minute to write a rebuttal like in
 xkcd: “Venting”, and she would sign it as Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 I wish that my words and deeds will carry reality *forward* instead of
 preserving the status quo.
-    — http://www.shlomifish.org/humour/stories/
+    — https://www.shlomifish.org/humour/stories/
 %
 If Chuck Norris travelled to the market with his son and his donkey, he would
 have clubbed the critics to death. With the donkey.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Playing Hermione in the Harry Potter films was a dirty job, but Emma Watson
 got a shitload of money and worldwide recognition for doing it.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 Emma Watson is not acting in films for money. She is acting in films for
 a shitload of money.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 If the miller travelled to the market with Emma, they would have each rided
 their own donkey. Problem solved.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 Emma Watson is not perfect, but she's really good at hiding her imperfections.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 Scary thought of the day: The Princess Bride - the 3-D remake.
 %
 Roses are red, violets are blue, something something Chuck Norris,
 now they are red too. (by: Rounin)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris ability to destroy is only matched (and exceeded) by
 Summer Glau’s ability to undo his destruction.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Whatever Chuck Norris taketh, Summer Glau giveth back.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 If Ayn Rand was born in the 1990s, she would be
-http://en.wikipedia.org/wiki/Christina_Grimmie .
-    — http://www.shlomifish.org/humour.html#if_ayn_rand_was_born_in_the_1990s
+https://en.wikipedia.org/wiki/Christina_Grimmie .
+    — https://www.shlomifish.org/humour.html#if_ayn_rand_was_born_in_the_1990s
 %
 Summer Glau can lead a horse to water, and then it will drink out of its
 own volition.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Emma Watson may not look too menacing with a wand in her hand. Until she uses
 it with great accuracy to poke both your eyes out.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 I love being convinced that I was wrong before. That way I knew I
 improved and am now wiser. Like the Klingon warriors say when it happens:
@@ -1476,35 +1476,35 @@ of the wilderness.
 %
 Chuck Norris was the 1,000,000,000th viewer of the Gangnam Style video on
 YouTube. Summer Glau was the preceding 100 million views.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 If the mountain does not come to Emma Watson, she won’t bother visiting it.
 It would be the mountain’s loss, really.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 <rindolf> Underscores are the most nutritious punctuation. But you also need
 to eat letters, digits and whitespace for a balanced diet.
-    — http://is.gd/pHLcFq
+    — https://is.gd/pHLcFq
 %
 [Leonard]: So, did you love it? Of course you loved it. How could you not love
 it? Tell me how much you loved it.
 [Penny]: It was cute!
 [Leonard]: Oh, don’t say cute. That’s the worst.
-    — The Big Bang Theory - http://is.gd/4oVmEn
+    — The Big Bang Theory - https://is.gd/4oVmEn
 %
 Summer Glau can restore the people that Chuck killed, back to life.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Summer Glau can give you the Hug of Death, but you’ll die happy.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 When it comes to terminators, you have a better shot at Arnold Schwarzenegger
 than at Summer Glau.      (Via The Big Bang Theory)
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 <rindolf> Yaakov: did you donate some of your patented GREAT HUGE LOVE™
 to needy people recently? ;-)
-    — http://www.shlomifish.org/humour/fortunes/sharp-perl.html
+    — https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
 Rindolf is the Evil twin brother of Rudolph and Randolph, Santa’s goody-two-
 shoes reindeer, who are among his arch-enemies. He is also one of the
@@ -1513,7 +1513,7 @@ aims to spread Evil in general and Reindeer Evil in particular around the world.
 %
 Not only is Rindolf an evil Reindeer, but he is also the notorious insane
 tyrant and mass-murderer, Rindolf “Aim Very High” Hitlower.
-    — http://www.shlomifish.org/me/rindolf/
+    — https://www.shlomifish.org/me/rindolf/
 %
      <rindolf>  We have a saying: “We survived Pharaoh - we’ll survive this.”
  <sorabji5252>  I suppose it’s all cake after Pharaoh.
@@ -1523,50 +1523,50 @@ I’m not sexist - I just play one in real-life.
 %
 A woman is a lady even if she is or was a porn actress or a prostitute.
 Treat her with respect, be honest to her - be a gentleman.
-    — http://twitter.com/shlomif/status/478025441983213569
+    — https://twitter.com/shlomif/status/478025441983213569
 %
 *Reg*: All right, but apart from the sanitation, medicine, education, wine,
 public order, irrigation, roads, the fresh water system, and public health,
 what have the Romans ever done for us?
-    — Life of Brian (1979) ( http://www.imdb.com/title/tt0079470/quotes )
+    — Life of Brian (1979) ( https://www.imdb.com/title/tt0079470/quotes )
 %
 Chuck Norris: Thank you, Kermit. You can learn more about me from my 500-page
 autobiography, which took me an hour to write, and from the comprehensive
 book of Factoids about me, of which I wrote every one.
-    — http://is.gd/htmOCv
+    — https://is.gd/htmOCv
 %
 *Chuck*: Indeed. Anyway, I invited a friend who is even crazier than I am.
 *Kermit*: Really, who is this crazy guy?
 *Chuck*: Actually, it’s a crazy girl.
-    — http://is.gd/htmOCv
+    — https://is.gd/htmOCv
 %
 SGlau: shut up, Mr. Frog! I’m here on a mission from the Grammar God. Herr
 Norris and I are loyal servants of Grammar Nazism, which aims to unite Grammar
 Europe under the reign of the Third Grammar Reich. Hail Grammar!
-    — http://is.gd/htmOCv
+    — https://is.gd/htmOCv
 %
 SGLau: By the way, herr Frog: it is not that hard to be green.
-    — http://is.gd/htmOCv
+    — https://is.gd/htmOCv
 %
 Head Mafio: Well, I am seeking vengence on a blog comment the two of you wrote
-and signed as http://en.wikipedia.org/wiki/Tiffany_Alvord .
-    — http://is.gd/htmOCv
+and signed as https://en.wikipedia.org/wiki/Tiffany_Alvord .
+    — https://is.gd/htmOCv
 %
 *Harry*: Yes, it is obvious that this pig is the most beautiful person for
 miles.
 *Miss Piggy*: Indeed. Candice Swanepoel ain’t got nothing on… Moi!
-    — http://is.gd/zsmond
+    — https://is.gd/zsmond
 %
 Harry: Mr. Mumford, I hereby propose my friend, the beautiful Hermione.
 Hermione: Ahem… actually I kinda have a bad hair day today, so I think
 your assistant should be the beautiful Harry (Potter!) here.
 Harry: Very well, I shall be the beautiful assistant.
-    — http://is.gd/zsmond
+    — https://is.gd/zsmond
 %
 Dumbledore Two: No, me is his successor: Dumbledore Two.
 [He takes a 2-like number from behind his back, and eats it.]
 Dumbledore Two: Num num num… delicious!
-    — http://is.gd/zsmond
+    — https://is.gd/zsmond
 %
 I wear prescription glasses so I may be half-blind, but at least I'm trying
 hard not to be a complete dick.
@@ -1574,100 +1574,100 @@ hard not to be a complete dick.
 %
 Xena the Warrior Princess has not met Chuck Norris yet, or otherwise he
 would have been badly and permanently injured.
-    — http://www.shlomifish.org/humour/bits/facts/Xena/
+    — https://www.shlomifish.org/humour/bits/facts/Xena/
 %
 Chuck Norris has 99 problems including a bitch. Summer Glau has exactly 98
 problems.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
-Fluttershy ( http://mlp.wikia.com/wiki/Fluttershy ) immediately stops crying
+Fluttershy ( https://mlp.wikia.com/wiki/Fluttershy ) immediately stops crying
 when Emma Watson comes to visit her.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 Chuck Norris can construct any logical expression using only AND gates.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can construct any logical expression using only AND gates.
 Summer Glau can replace Chuck with a very small AND gate.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris reinvented a better wheel. Summer Glau reinvented a better Chuck
 Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris can neither confirm nor deny that he was the Alpha Male. But
 he’ll kill you if you say he wasn't.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Who would win in a fight? Charlemagne, Charles Dickens, Charles Darwin or
 Carlos “Chuck” Norris? If Summer Glau was the arbiter, she would just kill all
 of them and declare herself the winner.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris round house kicks doors open instead of using their keys.
 Summer Glau makes sure doors are open using her mind.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris does not boil up water. If he wants, his ice cubes boil water,
 instead of making it cooler.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Summer Glau just works here. She teaches Chuck Norris how to perform
 his chores in the best possible manner.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Oh believe me, the Nagus has the greatest business mind in the entire Ferengi
 Alliance, always thinking ten, sometimes twenty steps ahead of everyone else.
-    — Quark in http://en.memory-alpha.org/wiki/Grand_Nagus
+    — Quark in https://en.memory-alpha.org/wiki/Grand_Nagus
 %
 You gotta go out there, believe in the ball, and throw yourself.
-    — The Wise Janitor in http://en.wikipedia.org/wiki/Not_another_teen_movie
+    — The Wise Janitor in https://en.wikipedia.org/wiki/Not_another_teen_movie
 %
 Chuck Norris shot the sheriff and his deputy. Summer Glau became the new
 sheriff and shot Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Summer Glau can kill you with her mind. But she’ll never need to or will.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Joel’s Generalisation: If it happens to you, it happens to everybody.
 (Or: It’s never only you.)
-    — Based on http://www.joelonsoftware.com/news/20020402.html
+    — Based on https://www.joelonsoftware.com/news/20020402.html
 %
 Yawn! Too TL;DR! Dude, do you even tweet?
     — https://twitter.com/shlomif/status/504931822757638144
 %
 We are men of action. Bullshit does not become us.
-— Shlomi Fish via http://en.wikiquote.org/wiki/The_Princess_Bride_%28film%29
+— Shlomi Fish via https://en.wikiquote.org/wiki/The_Princess_Bride_%28film%29
 %
 Chuck Norris wrote the entire tvtropes.org wiki, so he can sleep with your
 significant other while you are distracted reading it.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Emma Watson does not have 10 years of experience in developing Enterprise Java
 software. However, she has over 10 years of experience in getting shit done -
 well, on schedule, and at a reasonable cost.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 Chuck Norris does expect the Spanish Inquisition. But he doesn’t expect
 Summer Glau.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 When wishing to comment on a WordPress blog, Summer Glau finds a new zero-day
 WordPress SQL injection exploit, and uses it to insert the comment into the
 database directly, because even she cannot rely on its comment box to work.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris can edit Wikipedia super protected pages. Anonymously.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 XSLT isn't like violence. XSLT is violence - there is no such thing as using
 it too little.
-    — http://www.shlomifish.org/humour/bits/facts/XSLT/
+    — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Reality to be commanded must be obeyed. Chuck Norris disobeyed reality, and
 now he commands it.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 «The holocaust did not happen, so shoot me, bitch!»
     — https://www.flickr.com/photos/shlomif/8424748431/in/photostream/
@@ -1675,134 +1675,134 @@ now he commands it.
   <rindolf>  She's a hot chick.
   <rindolf>  But she smokes.
  <go|dfish>  She can smoke as long as she's smokin'.
-    — http://www.shlomifish.org/humour/fortunes/show.cgi?id=she-can-smoke
+    — https://www.shlomifish.org/humour/fortunes/show.cgi?id=she-can-smoke
 %
 Our parents can't be spies! They're not cool enough.
-    — http://en.wikipedia.org/wiki/Spy_Kids
+    — https://en.wikipedia.org/wiki/Spy_Kids
 %
 “Talk Like a Pirate Day” is the only day of the year when Chuck Norris only
 talks like a pirate, and does not actually act like one.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 On “Talk Like a Pirate Day”, ye be sailin’ across the great seas to seek
 the shore of Summer Glows and Summer Glaus. Arrrr!
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 On Yom Kippur (= the Jewish Day of Atonement), Chuck Norris forgives God for
 his sins.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris doesn't celebrate holidays -- holidays celebrate Chuck Norris.
-(By sevvie: http://sevvie.github.io/ .)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+(By sevvie: https://sevvie.github.io/ .)
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 I am sane enough to act crazy sometimes.
-— http://www.shlomifish.org/humour/bits/Emma-Watson-Visit-to-Israel-and-Gaza/
+— https://www.shlomifish.org/humour/bits/Emma-Watson-Visit-to-Israel-and-Gaza/
 %
 Monologue: one person talking to himself.
 Dialogue: two persons talking to themselves.
-    — Shaike Ophir: http://www.youtube.com/watch?v=2bpVrKm9QCc
+    — Shaike Ophir: https://www.youtube.com/watch?v=2bpVrKm9QCc
 %
 For all the people who think I’m insane, be aware that if I complied by the
 mainstream definition of sanity, I would not be half as successful as I am
 today.
-— http://www.shlomifish.org/humour/bits/Emma-Watson-Visit-to-Israel-and-Gaza/
+— https://www.shlomifish.org/humour/bits/Emma-Watson-Visit-to-Israel-and-Gaza/
 %
 EmWatson: A wand… yes, the bane of my existence. I’m thinking of collecting
 money for a public campaign to convert the weapon most associated with me to
 something more menacing.
-— http://www.shlomifish.org/humour/bits/Emma-Watson-Visit-to-Israel-and-Gaza/
+— https://www.shlomifish.org/humour/bits/Emma-Watson-Visit-to-Israel-and-Gaza/
 %
 Becky: My mother’s Jewish and I’m kind of a spoiled Jewish American Princess.
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Cliff: OK, OK, God works in mysterious ways - making a brony girl / Miley
 Cyrus aficionado into a slayer and making me, who has practised Martial Arts
 for years, and is incredibly athletic (“Buff-y-ed”, heh!) into a freaking
-warlock.  — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+warlock.  — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Cliff: Oh, he [= Chuck Norris] is great! Keeps saying various aphorisms that
 I can never tell if they are from the Bible or not, but, ye know, he’s just
 being himself.
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Cliff: And he takes losing (like with me - I won two rounds out of three)
 amazingly well. Says that he can learn more from a lost fight than from
 a fight he’s won.
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Becky: Summer Glau asked *you* to fight *her*? Get out! I’m not
 worthy… I’m not worthy… I’m not worthy… Cliff, you’re a freaking wizard!
 Cliff: I’m a freaking witch!
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Faith: Hey! “Slut” is such a 90s term. The new name for that is “polyamorous”!
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Buffy: I’m so glad we’re not one of those married-plus couples that don’t know
 any single people.
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Daniel: Hello ladies, may I join you?
 Buffy: Well, we’re having a girls’ talk, but… sure!
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Buffy: OK, Xandoosh, can you perform a search to find where such a duplicator
 is present?
 Xander: Sure! Hey, Wil, can you use a spell for that?
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Ken: [to Sarah] And who are you?
 Sarah: I’m Sarah Eisenman. A Jewish vampire slayer. And who are you?
 Ken: …Bitch!
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Sarah: Tell you what, Ken? Why not come to the diner, and I’ll pay for your
 food and drinks. I’ve been earning quite a lot of cash from tips. You can tell
 us stories from this dimension of evil of yours.
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Sarah: Ken, would you like some more juice?
 Ken: No, Sarah, that's OK, I’m stuffed. Anyway, I think I’ll return to my
 dimension of evil now - they will be clueless without me. Thanks for everything.
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Faith: Becky… you have a lot of potential. You’re more than a pretty face.
 Becky: Heh, I knew that I have potential, but do you really think I have
 a pretty face?
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Becky: Oh my god! Oh my god! Demonology… martial arts… knife throwing…
 history of slaying… Latin… and — American History, English, and Drama.
 I need juice. [She flails and sits down.]
-    — http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+    — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
 %
 Chuck Norris once refactored a 10 million lines C++ program and was done by
 lunch time. It then took Summer Glau 5 minutes to write the equivalent Perl
 10-liner.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Summer Glau showed Kermit the Frog how easy it can be to be green.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris makes sure his ciphers are unbreakable by killing all the crypto
 experts that could possibly break them.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris’ ciphers were once broken. He responded by breaking those
-individuals.             (By sevvie: http://sevvie.github.io/ .)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+individuals.             (By sevvie: https://sevvie.github.io/ .)
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 By the time Chuck Norris found out who John Galt is, Summer Glau already had
 sex with him.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 Chuck Norris grows money on trees.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 A fanatic: one who redoubles his efforts after he has forgotten his aim.
-    — http://en.wikiquote.org/wiki/George_Santayana
-    (via http://esr.ibiblio.org/?p=4371 ).
+    — https://en.wikiquote.org/wiki/George_Santayana
+    (via https://esr.ibiblio.org/?p=4371 ).
 %
 As it turns out, compiling a C program from more than 20 years ago is actually
 a lot easier than getting a Rails app from last year to work.
@@ -1813,7 +1813,7 @@ If you have to ask what Jazz is, you'll never know.
 %
 Because you can't just make shit up and expect the computer to magically know
 what you mean, Retardo!
-    — Mark Jason Dominus, http://perl.plover.com/Questions4.html
+    — Mark Jason Dominus, https://perl.plover.com/Questions4.html
 %
 The world is full of people, who each have their own personal whims and quirks,
 and which they expect you to remember and accommodate for, all the time.
@@ -1830,13 +1830,13 @@ busy worrying over what you are thinking about them.
 %
 Question: What is the difference between Chuck Norris and God?
 Answer: Chuck Norris knows he isn’t God.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Too much of Chuck Norris is not a bad thing.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris killed the fat lady before she could sing.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 A positive attitude may not solve all your problems, but it will annoy enough
 people to make it worth the effort. — Herm Albright (via On Gossamer Wings)
@@ -1845,7 +1845,7 @@ There are only two hard things in Computer Science: cache invalidation and
 naming things.           — Phil Karlton
 %
 Golden rule #12: When the comments do not match the code, they probably are
-both wrong. ;)              — Steven Rostedt, http://lwn.net/Articles/433900/
+both wrong. ;)              — Steven Rostedt, https://lwn.net/Articles/433900/
 %
 It always works at the end. Too bad it doesn't work right at the beginning.
     — Shlomi Fish’s relative.
@@ -1859,10 +1859,10 @@ One of my most productive days was throwing away 1,000 lines of code.
     — Ken Thompson (Attributed)
 %
 “C is for Cookie” is not good enough for Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris can hear the sounds of silence.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Anything less than the best is a felony.
     — https://en.wikipedia.org/wiki/Ice_Ice_Baby
@@ -1879,14 +1879,14 @@ understanding. It was too intense to be kept inside my head.
     — An Israeli Open Source Software Enthusiast.
 %
 Chuck Norris is ninety out of Jay-Z's 99 problems.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Ariana Grande has one less problem *with* Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris was able to truly appreciate Hamlet, before he read it in the
 original Klingon.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 I thought I was wrong once, but I was mistaken.
     — Via Dave Mitchell
@@ -1896,7 +1896,7 @@ to despair and utter hopelessness. The other, to total extinction. Let us pray
 we have the wisdom to choose correctly.           — Woody Allen
 %
 Chuck Norris ain’t Got Milk. He drinks the blood of his enemies.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Q: How many feminists does it take to change a light bulb?
 A: It’s not funny!!!
@@ -1907,57 +1907,57 @@ If you wish to live wisely, ignore sayings — including this one.
 %
 Chuck Norris knows what the gender of Great A’Tuin, the Discworld world turtle,
 is.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris doesn’t have to get down on Friday.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The more money Chuck Norris comes across, the less problems he sees.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Shania Twain was much impressed by Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris is *not* going to miss Anna Kendrick when she’s gone.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Friends may come and go, but enemies accumulate.
     — Thomas Jones (1892-1969)
 %
 Chuck Norris’s cat does not chase mice. It chases dogs.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If I had any humility, I would be perfect.
     — Ted Turner
 %
 Chuck Norris has 50 years of proven experience in PHP/MySQL/Java. Each.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Right Said Fred is not too sexy for Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If a tree falls down in the middle of the forest, and there's nobody in its
 vicinity, it will still make a sound, because Chuck Norris can hear it.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris’s woodchuck can chuck wood.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris made the baby Jesus stop crying.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The three principal virtues of a programmer are Laziness, Impatience, and
 Hubris.
-    — http://perldoc.perl.org/perl.html
+    — https://perldoc.perl.org/perl.html
 %
 There are two types of command interfaces: good interfaces and user interfaces.
-    — http://en.wikiquote.org/wiki/Daniel_J._Bernstein
+    — https://en.wikiquote.org/wiki/Daniel_J._Bernstein
 %
 It is a good idea to stop worrying about problems (or “problems” in quotes)
 that cannot be fixed.
 %
 Chuck Norris killed the bottommost turtle.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Reportedly, SANE (= “Scannar Access Now Easy”) was called that way in part
 so one can say “TWAIN is not SANE!”.
@@ -1969,21 +1969,21 @@ person receives a house in return.
 %
 Always reach for the stars! Because even if you miss… You’ll be miles away
 from me with your motivational bullshit.
-    — http://is.gd/PuH02m
+    — https://is.gd/PuH02m
 %
 Chuck Norris has conceived a master plan that does not involve building a time
 machine, and if you claim it isn’t good, you’ll be dead.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The reason the Messiah has not come yet, is because Chuck Norris keeps finding
 faults in God’s plan for his coming.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The cake was not a lie for Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 God is almighty, but Chuck Norris is almightier.     (By Philip Schroeder.)
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The difference between theory and practice is that in theory, there is no
 difference between theory and practice, while in practice, there is.
@@ -1996,11 +1996,11 @@ HP/UX is not a UNIX, and AIX is even less of it than that.
     — An Israeli Open Source Software Enthusiast.
 %
 A rose by a name picked by Chuck Norris, will smell sweeter.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Objective Visual Turbo Global jIronOpenPerl++.NET™ Enterprise Edition♭
 Professional Home Premium Ultimate 64-bit Single-user.
-    — based on a Freenode #perl conversation ( http://is.gd/cCUBY2 )
+    — based on a Freenode #perl conversation ( https://is.gd/cCUBY2 )
 %
 As to the Adjective: when in doubt, strike it out.
     — Mark Twain, “Pudd’nhead Wilson's Calendar”
@@ -2009,22 +2009,22 @@ Which is worse: ignorance or apathy?  Who knows?  Who cares?
     — Source unknown.
 %
 Chuck Norris saved Paradise in order to destroy it.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 He who has more is not happier than he who wants less.
     — Source unknown, via Nadav Har’El.
 %
 An idealist is one who, on noticing that a rose smells better than a cabbage,
 concludes that it is also more nourishing.
-    — http://en.wikiquote.org/wiki/H._L._Mencken
+    — https://en.wikiquote.org/wiki/H._L._Mencken
 %
 Explanations exist; they have existed for all time; there is always a
 well-known solution to every human problem — neat, plausible, and wrong.
-    — http://en.wikiquote.org/wiki/H._L._Mencken
+    — https://en.wikiquote.org/wiki/H._L._Mencken
 %
 Bachelors know more about women than married men. If they didn't, they'd be
 married, too.
-    — http://en.wikiquote.org/wiki/H._L._Mencken
+    — https://en.wikiquote.org/wiki/H._L._Mencken
 %
 It's the kind of movie where you would expect The Rock to slide on a skateboard
 , along moving chopper rotors, to pick up a girl that is dodging a lion on a
@@ -2033,24 +2033,24 @@ flag-pole at the 200th floor of a building that is currently collapsing.
 %
 There's only two things I hate in this world: people who are intolerant of
 other people's cultures, and the Dutch.
-    — http://www.imdb.com/title/tt0295178/quotes
+    — https://www.imdb.com/title/tt0295178/quotes
 %
 Chuck Norris does not care who the hell Alice is.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The Zeroth Rule of Fight Club is that Chuck Norris can talk about Fight Club.
 No one tells Chuck Norris what not to do.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If you laugh, Chuck Norris will only laugh with you if the joke is funny.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 In the beginning the Universe was created. This has made a lot of people very
 angry and been widely regarded as a bad move.
     — https://en.wikiquote.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy
 %
 Right to bear arms? In Soviet Russia, we have right to whole bear.
-    — http://is.gd/EU4puV
+    — https://is.gd/EU4puV
 %
 I think those “Sent from my $DEVICE” signatures in E-mails are actually bad
 publicity for these devices, given the poor quality of most of these E-mails.
@@ -2063,20 +2063,20 @@ just how busy they are?
 The ability to destroy a planet is insignificant next to the power of the
 Force. The power of the Force is insignificant next to the wrath of Chuck
 Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The greatest threat to authors and creative artists is not piracy — it's
 obscurity.
-    — http://radar.oreilly.com/2006/08/piracy-is-progressive-taxation.html
+    — https://radar.oreilly.com/2006/08/piracy-is-progressive-taxation.html
 %
 Tech needs less wizards, ninjas, and rockstars, and way more sociologists.
     — https://twitter.com/nslater/status/545592700289155072
 %
 The way of the world is to praise dead saints, and persecute living ones.
-    — Nathaniel Howe, http://www.ldsquotes.org/quote?q=1900
+    — Nathaniel Howe, https://www.ldsquotes.org/quote?q=1900
 %
 Good judgement comes from experience.  Experience comes from bad judgement.
-    — http://en.wikiquote.org/wiki/Nasreddin
+    — https://en.wikiquote.org/wiki/Nasreddin
 %
 Learn from mistakes of others; you won't live long enough to make them all
 yourself.         — Source unknown via Nadav Har’El
@@ -2090,11 +2090,11 @@ I come to bury Caesar, not to praise him.
     — https://en.wikiquote.org/wiki/Julius_Caesar_%28play%29
 %
 Chuck Norris created an O(1/N) algorithm.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The Klingon warriors’ motto is “It’s a good day to die.” Chuck Norris’s motto
 is “It’s a good day to kill.”
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 One of Rincewind’s tutors had said of him that “to call his understanding of
 magical theory abysmal is to leave no suitable word to describe his grasp of
@@ -2117,7 +2117,7 @@ Do you always begin conversations this way?
     — https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29
 %
 It’s easier to port a shell than a shell script.
-    — http://en.wikiquote.org/wiki/Larry_Wall
+    — https://en.wikiquote.org/wiki/Larry_Wall
 %
 When you say “I wrote a program that crashed Windows”, people just stare at
 you blankly and say “Hey, I got those with the system, *for free*”.
@@ -2150,14 +2150,14 @@ I believe in the Golden Rule - the man with the gold... rules.
 %
 The key to making programs fast is to make them do practically nothing. ;-)
     — Mike Haetel (= the original author of GNU grep)
-— http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
+— https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
 %
 I don’t believe in Astrology, because I’m a Taurus, and Tauri never believe in
 Astrology.           — Source unknown
 %
 Chuck Norris does not believe in Astrology, despite the fact that he is a
 Pisces, and that Pisces always believe in Astrology.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Between truth and the search for truth, I opt for the second.
     — Bernard Berenson (Unsourced via fortune-mod)
@@ -2167,10 +2167,10 @@ Between truth and the search for truth, I opt for the second.
 %
 Chuck Norris gave Richard III a horse in exchange for his kingdom. Norris is
 now the king of England.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris knows exactly which thing is rotten in the kingdom of Denmark.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 When people agree with me I always feel I must be wrong.
     — https://en.wikiquote.org/wiki/Oscar_Wilde (via fortune-mod)
@@ -2213,40 +2213,40 @@ I have defined the 100 per cent American as 99 per cent an idiot.
 %
 Don’t worry about what the NSA knows about you. They don’t tell anything they
 know to anyone.
-    — http://www.shlomifish.org/humour/bits/facts/NSA/
+    — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
 Summer Glau gave Richard III a horse free-of-charge and let him keep his
 kingdom for himself.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 God signs people into the book of life using a pen that Chuck Norris gave him.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Windows Update doesn’t.
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 Aesop originally wanted to write his fable as “The Hare and Windows Update”
 instead of “The Hare and the Tortoise” but could not figure out how the hare
 will ever lose to Windows Update, even despite him not taking the race
 seriously.
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 By the time it takes Windows Update to download a 22 MB update without
 installing it, Mageia Linux’s urpmi was already able to download and install a
 game whose package is 900 MB (and there was still a lot of time to spare).
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 Only three things are infinite: the universe, human stupidity, and the amount
 of patience that Windows Update requires.
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 Windows Update does not take forever to finish updating your computer. It takes
 at least forever and two weeks.
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 Ten measures of slowness went down to the world.  Windows Update required at
 least eleven, so more had to be provided.
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 The nice thing about standards is that you have so many to choose from.
     — https://en.wikiquote.org/wiki/Andrew_S._Tanenbaum
@@ -2260,11 +2260,11 @@ and let the rest of the world mirror it.
 %
 The only reason some jokes never die is because Chuck Norris is not interested
 in killing them.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The Knights Who Say “Ni” once said “Ni” to Chuck Norris. They are now no longer
 The Knights Who Say “Ni”.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 As every cat owner knows, nobody owns a cat.
     — Source unknown, via Nadav Har’El.
@@ -2288,7 +2288,7 @@ Women who seek to be equal with men lack ambition.
 Everybody has their pet peeve. Except Chuck Norris.  He can never become
 irritated. When somebody does something Chuck Norris disapproves of, he calmly
 kills them, and then goes on with the rest of his life.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 He had found a Nutri-Matic machine which had provided him with a plastic cup
 filled with a liquid that was almost, but not quite, entirely unlike tea.
@@ -2296,11 +2296,11 @@ filled with a liquid that was almost, but not quite, entirely unlike tea.
 %
 The Blues Brothers are on a mission from God.
 God is on a mission from Chuck Norris.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 The Starship Enterprise motto is going to change to “To boldly go where only
 Chuck Norris has gone before”.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 I achieved my fast times by multitudes of 1% reductions.
 — Bill Raymond in
@@ -2319,14 +2319,14 @@ It is impossible to make anything foolproof because fools are so ingenious.
     — Source Unknown
 %
 Chuck Norris has an Erdős number of -1.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 A skyscraper once jumped off Chuck Norris. It didn't survive.
-(By Andrew Brehm) — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+(By Andrew Brehm) — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris once jumped out of a plane, and the parachute did not open. So
 instead Chuck Norris opened and brought him and the parachute down safely.
-(By Andrew Brehm) — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+(By Andrew Brehm) — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 I want to create a programming language called “Multiply” so people can say
 “I program in Go, Forth, and Multiply”.
@@ -2336,17 +2336,17 @@ I’d rather have natural stupidity instead of artificial intelligence.
     — Unknown
 %
 Artificial Intelligence is not an adequate substitute for natural stupidity.
-    — http://www.quotationspage.com/quote/239.html
+    — https://www.quotationspage.com/quote/239.html
 %
 Experience is what causes a person to make new mistakes instead of old ones.
     — Source unknown, via Nadav Har’El.
 %
 Buddha has the Chuck Norris nature.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 A Zen master once asked Chuck Norris if he had the Buddha nature. Norris
 proceeded by making sure the former master will lack any nature whatsoever.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Many a man owes his success to his first wife and his second wife to his
 success.
@@ -2354,11 +2354,11 @@ success.
 %
 Summer Glau can get more with a kind word alone than Al Capone could with a
 kind word and a gun.
-    — http://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+    — https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
 %
 The Windows Update developers are going to burn in hell for the combined time
 it took it to install updates on the users' computers.
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 The reward for a job well done will generally just be another, probably harder,
 job.
@@ -2391,7 +2391,7 @@ Happy Birthday! You'll be older than I in no time at this rate!
 Chuck Norris wrote solutions for all the problems of
 https://en.wikipedia.org/wiki/Project_Euler , and they all run in under a
 minute. In total.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Before I married, I had three theories about raising children and no children.
 Now, I have three children and no theories.
@@ -2405,7 +2405,7 @@ How can you govern a nation which has 246 kinds of cheese?
 %
 Windows Update is called this way because by the time it finishes, the date has
 gone up.
-    — Trashlord, http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — Trashlord, https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 If it wasn't for the fun and money, I really don't know why I'd bother.
     — Terry Pratchett in
@@ -2460,11 +2460,11 @@ Beware from accumulating too much wisdom. It is not wise to be too wise.
 %
 The heat death of the universe is best approximated as half the time it would
 have taken Windows Update to install a year’s worth of updates.
-    — http://www.shlomifish.org/humour/bits/facts/Windows-Update/
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
 %
 If Chuck Norris is disappointed by you not following his advice, he’ll survive.
 On the other hand, you will not.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Hail Fluttershy, Princess of Princesses, head of the secret cabal leadership of
 the Mossad, the already top secret intelligence agency of the Zionist
@@ -2506,31 +2506,31 @@ Taylor Swift is not the new Madonna. She is the new Socrates.
 %
 Chuck Norris wrote solutions for all the problems of Project Euler, and they
 all run in under a minute. In total.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If Chuck Norris is disappointed by you not following his advice, he’ll survive.
 On the other hand, you will not.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris won't kill you for money. He also won't kill you for a shitload of
 money. However, he might opt to kill you as a free-of-charge service.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris’s roundhouse kicks are licensed under the public domain because no
 one besides him can duplicate them.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris will kill you just for the fun of kicking your Death's ass till it
 runs away, then beating your soul back into your corpse. (by e-neko).
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Emma Watson played Hermione in the Harry Potter films, but she doesn’t need a
 wand to kick your ass and wipe it on the floor.
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 “I can spell ‘Emma Watson’ easily enough, but how the hell do I spell ‘Kira
 Nightly’?”
-    — http://www.shlomifish.org/humour/bits/facts/Emma-Watson/
+    — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
 %
 It is wrong to look down on reality show contestants (and more recently -
 YouTubers) who, like older forms of entertainers / philosophers, are seeking
@@ -2548,7 +2548,7 @@ When there is a PyPy booboo, then PyPy goes byebye!
     — https://www.shlomifish.org/humour.html#pypy_booboo
 %
 Chuck Norris is not a full stack developer. He is an empty queue developer.
-    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Unix was not designed to stop you from doing stupid things, because that would
 also stop you from doing clever things.
