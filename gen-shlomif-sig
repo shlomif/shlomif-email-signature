@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-use Math::BigInt (try => 'GMP');
+use Math::BigInt ( try => 'GMP' );
 
 use utf8;
 
@@ -13,20 +13,20 @@ sub _myrand
 {
     my ($max) = @_;
 
-    if (open my $fh, '<:raw', '/dev/urandom')
+    if ( open my $fh, '<:raw', '/dev/urandom' )
     {
         my $n = Math::BigInt->new(0);
 
         my $buf = '';
-        read($fh, $buf, 16);
+        read( $fh, $buf, 16 );
 
-        for my $c (split//,$buf)
+        for my $c ( split //, $buf )
         {
-            $n = (($n << 8) | ord($c));
+            $n = ( ( $n << 8 ) | ord($c) );
         }
 
         close($fh);
-        return ($n % $max);
+        return ( $n % $max );
     }
     else
     {
@@ -38,9 +38,8 @@ sub _pick
 {
     my ($aref) = @_;
 
-    return $aref->[_myrand(scalar(@$aref))];
+    return $aref->[ _myrand( scalar(@$aref) ) ];
 }
-
 
 my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
 
@@ -48,27 +47,27 @@ my $script_dir = catpath( ( splitpath( rel2abs $0 ) )[ 0, 1 ] );
 
 No longer relevant or of interest:
 
-    qq{Rethinking CPAN - http://shlom.in/rethinking-cpan},
-    qq{Stop Using MSIE - http://www.shlomifish.org/no-ie/},
+    qq{Rethinking CPAN - https://shlom.in/rethinking-cpan},
+    qq{Stop Using MSIE - https://www.shlomifish.org/no-ie/},
 
 =cut
 
-my @resource_lines =
-(
+my @resource_lines = (
     qq{Apple Inc. is Evil - https://www.shlomifish.org/open-source/anti/apple/},
-    qq{Beginners Site for the Vim text editor - http://vim.begin-site.org/},
+    qq{Beginners Site for the Vim text editor - https://vim.begin-site.org/},
     qq{Best Introductory Programming Language - https://shlom.in/intro-lang},
     qq{Buffy Factoids - https://www.shlomifish.org/humour/bits/facts/Buffy/},
     qq{Chuck Norris/etc. Facts - https://www.shlomifish.org/humour/bits/facts/},
     qq{Emma Watson Factoids - https://shlom.in/emwatson-facts},
-    qq{Escape from GNU Autohell - http://www.shlomifish.org/open-source/anti/autohell/},
+qq{Escape from GNU Autohell - https://www.shlomifish.org/open-source/anti/autohell/},
     qq{First stop for Perl beginners - https://perl-begin.org/},
-    qq{Free (Creative Commons) Music Downloads, Reviews and more - http://jamendo.com/},
+qq{Free (Creative Commons) Music Downloads, Reviews and more - https://jamendo.com/},
     qq{Freecell Solver - https://fc-solve.shlomifish.org/},
-    qq{Funny Anti-Terrorism Story - https://shlom.in/enemy}, # The Enemy and How I Helped to Fight it.
+    qq{Funny Anti-Terrorism Story - https://shlom.in/enemy}
+    ,    # The Enemy and How I Helped to Fight it.
     qq{Humanity - Parody of Modern Life - https://shlom.in/humanity},
     qq{Interview with Ben Collins-Sussman - https://shlom.in/sussman},
-    qq{Let’s talk about restores instead of backups - http://is.gd/WatQqu},
+    qq{Let’s talk about restores instead of backups - https://is.gd/WatQqu},
     qq{List of Graphics Apps - https://shlom.in/graphics},
     qq{List of Networking Clients - https://shlom.in/net-clients},
     qq{List of Portability Libraries - https://shlom.in/port-libs},
@@ -93,14 +92,14 @@ my @resource_lines =
     qq{What Makes Software Apps High Quality -  https://shlom.in/sw-quality},
     qq{What does “Zionism” mean? - https://shlom.in/def-zionism},
     qq{Why I Love Perl - https://shlom.in/joy-of-perl},
-    qq{https://ccmixter.org/files/destinazione_altrove/49997 - “Paint The Sky”},
-    qq{http://is.gd/KNvczZ - The FSF Announces New Versions of the GPL},
-    qq{http://is.gd/htwEXQ - Integrating GNU Guile into GNU coreutils},
-    qq{http://is.gd/i5eMQd - Emma Watson’s Interview for a Software Dev Job},
-    qq{http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/},
-    qq{http://shlomifishswiki.branchable.com/Self-Sufficiency/},
+qq{https://ccmixter.org/files/destinazione_altrove/49997 - “Paint The Sky”},
+    qq{https://is.gd/KNvczZ - The FSF Announces New Versions of the GPL},
+    qq{https://is.gd/htwEXQ - Integrating GNU Guile into GNU coreutils},
+    qq{https://is.gd/i5eMQd - Emma Watson’s Interview for a Software Dev Job},
+qq{https://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/},
+    qq{https://shlomifishswiki.branchable.com/Self-Sufficiency/},
     qq{https://www.shlomifish.org/humour/Summerschool-at-the-NSA/},
-    qq{https://www.shlomifish.org/humour/bits/Can-I-SCO-Now/ - “Can I SCO Now?”},
+qq{https://www.shlomifish.org/humour/bits/Can-I-SCO-Now/ - “Can I SCO Now?”},
     qq{https://www.shlomifish.org/humour/bits/Google-Discontinues-Services/},
     qq{https://www.shlomifish.org/humour/bits/New-versions-of-the-GPL/},
     qq{https://www.shlomifish.org/humour/bits/facts/Emma-Watson/},
@@ -124,7 +123,7 @@ my @resource_lines =
     qq{“So, who the hell is Qoheleth?” - https://shlom.in/qoheleth},
 );
 
-my $line = _pick(\@resource_lines);
+my $line = _pick( \@resource_lines );
 
 sub _slurp
 {
@@ -141,12 +140,11 @@ sub _slurp
     return $contents;
 }
 
-
 my $quotes_text = _slurp("$script_dir/shlomif-sig-quotes.txt");
 
-my @quotes = grep { /\S/ } split(/^\n*%\n*$/ms, $quotes_text);
+my @quotes = grep { /\S/ } split( /^\n*%\n*$/ms, $quotes_text );
 
-my $quote = _pick(\@quotes);
+my $quote = _pick( \@quotes );
 
 $quote =~ s{\n+\z}{}ms;
 $quote =~ s{\A\n+}{}ms;
@@ -159,5 +157,5 @@ $line
 
 $quote
 
-Please reply to list if it's a mailing list post - http://shlom.in/reply .
+Please reply to list if it's a mailing list post - https://shlom.in/reply .
 EOF
