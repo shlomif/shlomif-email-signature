@@ -140,14 +140,31 @@ sub _slurp
     return $contents;
 }
 
-my $quotes_text = _slurp("$script_dir/shlomif-sig-quotes.txt");
+my $dirname = "$script_dir/split";
+if ( not -d $dirname )
+{
+    my $quotes_text = _slurp("$script_dir/shlomif-sig-quotes.txt");
 
-my @quotes = grep { /\S/ } split( /^\n*%\n*$/ms, $quotes_text );
+    my @quotes = grep { /\S/ } split( /^\n*%\n*$/ms, $quotes_text );
+    mkdir("$script_dir/split");
+    while ( my ( $i, $v ) = each(@quotes) )
+    {
+        $v =~ s{\n+\z}{}ms;
+        $v =~ s{\A\n+}{}ms;
+        open my $fh, ">:encoding(utf8)", sprintf( "%s/%X", $dirname, $i );
+        $fh->print($v);
+        close $fh;
+    }
+    my $mutate = _slurp($0);
+    $mutate =~ s/^( *my *\$NUM_QUOTES *= *)[0-9]+/$1 . scalar(@quotes)/ems;
+    open my $fh, ">:encoding(utf8)", $0;
+    $fh->print($mutate);
+    close $fh;
+}
 
-my $quote = _pick( \@quotes );
+my $NUM_QUOTES = 707;
 
-$quote =~ s{\n+\z}{}ms;
-$quote =~ s{\A\n+}{}ms;
+my $quote = _slurp( sprintf( "%s/%X", $dirname, _myrand($NUM_QUOTES) ) );
 
 binmode STDOUT, ":utf8";
 print <<"EOF";
