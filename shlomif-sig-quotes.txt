@@ -2569,3 +2569,7 @@ includes atheism) but they are still useful.
 Tell a man there are 300 billion stars in the universe and he'll believe you.
 Tell him a bench has wet paint on it and he'll have to touch to be sure.
     — Unknown Source (via fortune-mod).
+%
+<Chalky> gcc is the best compressor ever ported to Linux. It can turn 12MB
+of kernel source (and that's .debbed) into a 500k kernel.
+    — via fortune-mod
