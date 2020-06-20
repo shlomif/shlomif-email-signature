@@ -2573,3 +2573,6 @@ Tell him a bench has wet paint on it and he'll have to touch to be sure.
 <Chalky> gcc is the best compressor ever ported to Linux. It can turn 12MB
 of kernel source (and that's .debbed) into a 500k kernel.
     — via fortune-mod
+%
+<tm604> I'd stand well clear of anyone classing a nuke as a melee weapon.
+    — #perl , https://is.gd/55LJ4y
