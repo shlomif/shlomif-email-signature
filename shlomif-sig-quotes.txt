@@ -2576,3 +2576,7 @@ of kernel source (and that's .debbed) into a 500k kernel.
 %
 <tm604> I'd stand well clear of anyone classing a nuke as a melee weapon.
     — #perl , https://is.gd/55LJ4y
+%
+Chuck Norris killed all the members of the Spanish Inquisition, so they won’t
+come unexpectedly.
+    — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
