@@ -717,6 +717,7 @@ blind.
     — https://www.shlomifish.org/humour/bits/facts/XSLT/
 %
 Larry Wall can make shit up, and the computer will understand what he means.
+    — https://www.shlomifish.org/humour/bits/facts/Larry-Wall/
 %
 Whitespace in Python is not a problem: just lay out all the whitespace first,
 then add the code around it.
@@ -1992,7 +1993,7 @@ difference between theory and practice, while in practice, there is.
 I before E, except after C. We live in a weird society.
     — Source unknown, via Nadav Har’El.
 %
-HP/UX is not a UNIX, and AIX is even less of it than that.
+HP-UX is not a UNIX, and AIX is even less of it than that.
     — An Israeli Open Source Software Enthusiast.
 %
 A rose by a name picked by Chuck Norris, will smell sweeter.
@@ -2583,3 +2584,6 @@ come unexpectedly.
 %
 Beware of bugs in the above code; I have only proved it correct, not tried it.
     — https://en.wikiquote.org/wiki/Donald_Knuth
+%
+You have a Mac server? Next you'll tell me that you have an HP-UX desktop.
+    - ##programming
