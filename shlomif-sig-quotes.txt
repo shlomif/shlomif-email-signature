@@ -297,6 +297,7 @@ optimised machines for them using real atoms.
 Deletionists delete Wikipedia articles that they consider lame.
 
 Chuck Norris deletes Deletionists whom he considers lame.
+    — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 There are no deletionists. Only Wikipedia articles which Chuck Norris allows
 to live. (By: joeyadams)
@@ -397,20 +398,25 @@ remains constant.
 interface whitepaper? A developer’s guide? A user manual? A “The BL Book” and
 “BL — The Program”?
 <buu> rindolf: no, no, no no and no
+    — https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
 <mst> I find it’s usually safe to assume that whatever shlomif’s doing, there
 isn’t a good reason for it.
+    — https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
 Become an awesome Perl ninja rockstar vampire zombie pirate.
     — https://is.gd/T2uCO7
 %
 <PerlJam> I’m trying to achieve world peace and this regex is the last thing
 standing in my way! ;)
+    — https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
 <rindolf> “be here or be not here — there is no maybe.”
+    — https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
 <rindolf>  If you repeat a scene 50k times, then the movie will have less
 entropy and will compress better. ( irc://irc.freenode.org/#perlcafe )
+    — https://www.shlomifish.org/humour/fortunes/sharp-perl.html
 %
 Modern Perl — the 3‐D Movie. In theatres near you.
 %
@@ -421,7 +427,7 @@ Modern Perl — the 3‐D Movie. In theatres near you.
 %
 I started out as a BASIC programmer. Some people would say that I’m
 permanently damaged. Some people are undoubtedly right.
-    — Larry Wall
+    — Larry Wall , https://www.perl.com/pub/2007/12/06/soto-11.html/
 %
 bzr is slower than Subversion in combination with Sourceforge.
     — Sjors, https://dazjorz.com/
@@ -429,26 +435,30 @@ bzr is slower than Subversion in combination with Sourceforge.
 There is no IGLU Cabal! Its members can be arranged in N! orders to form N!
 different Cabals. The algorithm to find which order formulates the correct
 IGLU Cabal is NP‐Complete.
+    — https://www.shlomifish.org/humour/fortunes/tinic.html
 %
 There is no IGLU Cabal. The problem of founding an IGLU Cabal has been proven,
 in a surprise move, to be equivalent to the question of the existence of God,
 fully‐tolerant religions and NP‐complete oracles.   — Omer Zak
+    — https://www.shlomifish.org/humour/fortunes/tinic.html
 %
 There is no IGLU Cabal! Home‐made Cabals eventually superseded the power and
 influence of the original IGLU Cabal, which was considered a cutting edge
 development at its time.
+    — https://www.shlomifish.org/humour/fortunes/tinic.html
 %
 There is an IGLU Cabal, but its only purpose is to deny the existence of an
 IGLU Cabal.
-    — Martha Greenberg
+    — Martha Greenberg, https://www.shlomifish.org/humour/fortunes/tinic.html
 %
 There is no IGLU cabal! The former cabalists are trying to prove the
 correctness of a program that proves the correctness of proofs of other
 programs.
+    — https://www.shlomifish.org/humour/fortunes/tinic.html
 %
 My Commodore 64 is suffering from slowness and insufficiency of memory, and its
-display device is grievously short of pixels.  Can anybody help?
-    — Omer Zak
+display device is grievously short of pixels. Can anybody help?
+    — Omer Zak, https://www.shlomifish.org/humour/fortunes/tinic.html
 %
 I hope that you agree with me that 99.9218485921% of the users wouldn’t bother
 themselves with recompilation (or any other manual step for that matter) to
@@ -2027,10 +2037,10 @@ Bachelors know more about women than married men. If they didn't, they'd be
 married, too.
     — https://en.wikiquote.org/wiki/H._L._Mencken
 %
-It's the kind of movie where you would expect The Rock to slide on a skateboard
-, along moving chopper rotors, to pick up a girl that is dodging a lion on a
-flag-pole at the 200th floor of a building that is currently collapsing.
-    — xeno on Freenode’s ##programming.
+It's the kind of movie where you would expect The Rock to slide on a
+skateboard, along moving chopper rotors, to pick up a girl that is dodging a
+lion on a flag-pole at the 200th floor of a building that is currently
+collapsing.                — xeno on Freenode’s ##programming.
 %
 There's only two things I hate in this world: people who are intolerant of
 other people's cultures, and the Dutch.
