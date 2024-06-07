@@ -770,7 +770,7 @@ Chuck Norris has 0 messages in his E-mail inbox. Including already read ones.
     — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 If a million Shakespeares had to write together, they would write like a monkey.
-    — based on Stephen Wright, via Nadav Har’El.
+    — based on Steven Wright, via Nadav Har’El.
 %
 <talexb> “Hey, I have a flat tire. Can you help me change it with a can opener
 and a pound of sesame seeds?”
@@ -842,6 +842,7 @@ money.
     — Eric S. Raymond in The Cathedral and the Bazaar
 %
 On the Road (and on the Internet), don’t be right — be smart!
+    — https://shlomifish.livejournal.com/909.html
 %
 Flock aims to be the browser for the social web, but I found it to be the
 completely anti-social browser.
@@ -1212,8 +1213,8 @@ Inigo Montoya: You seem a decent fellow. I hate to kill you.
 The Man in Black: You seem a decent fellow. I hate to die.
     — https://en.wikiquote.org/wiki/The_Princess_Bride_%28film%29
 %
-Chuck Norris is always right. Even if he says that “A is not-A”, he would
-be right, because Logic is subject to his whims.
+“I am always right. Unless I say that 'A is not-A'. But Chuck Norris will be
+right even then.”
     — https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
 Chuck Norris does not own a dishwasher. His dishes know better than to become
@@ -1858,7 +1859,7 @@ naming things.           — Phil Karlton
 Golden rule #12: When the comments do not match the code, they probably are
 both wrong. ;)              — Steven Rostedt, https://lwn.net/Articles/433900/
 %
-It always works at the end. Too bad it doesn't work right at the beginning.
+It always works at the end. Too bad it doesn't work right away at the beginning.
     — Shlomi Fish’s relative.
 %
 Some people grow older and wiser. Not I. I grow older and more foolish.
