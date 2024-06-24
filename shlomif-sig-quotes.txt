@@ -2723,3 +2723,9 @@ True ignorance is not the absence of knowledge, but the refusal to acquire it.
 
     -- Unknown
     -- Via Trashlord’s IRC /quit message
+%
+Trust me: every problem in computer science may be solved by an indirection,
+but those indirections are *expensive*. Pointer chasing is just about the most
+expensive thing you can do on modern CPUs.
+
+    -- Linus Torvalds ( http://lwn.net/Articles/509417/ )
