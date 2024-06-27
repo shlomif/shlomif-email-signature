@@ -2729,3 +2729,8 @@ but those indirections are *expensive*. Pointer chasing is just about the most
 expensive thing you can do on modern CPUs.
 
     -- Linus Torvalds ( http://lwn.net/Articles/509417/ )
+%
+I'm going to do a routine now, the ones of you that have heard it before may
+enjoy hearing it again. The ones of you that have not heard it before - may
+enjoy hearing it again next time.
+    -- Victor Borge, Phonetic Punctuation
