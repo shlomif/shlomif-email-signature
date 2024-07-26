@@ -2734,3 +2734,10 @@ I'm going to do a routine now, the ones of you that have heard it before may
 enjoy hearing it again. The ones of you that have not heard it before - may
 enjoy hearing it again next time.
     -- Victor Borge, Phonetic Punctuation
+%
+Today I told my father: “I will go for a walk now, before it will be later”.
+    — Post to the Hebrew Facebook Tautologies Club:
+    https://www.facebook.com/groups/395407367258297/permalink/2262134623918886/
+%
+<baum>: if you are judging a source control solution by its company and years of existence, maybe check out Visual SourceSafe :)
+    ­— ##programming
