@@ -2622,7 +2622,7 @@ Chuck Norris can destroy the world instantaneously.  However, he prefers it to
 suffer from a long, slow, cruel, torture.
     — http://www.shlomifish.org/humour/bits/facts/Chuck-Norris/
 %
-“When I was your age, Emma Watson was called Sarah Bernhardt!”
+“When I was your age, Emma Watson was called ‘Sarah Bernhardt’!”
 
 “Whoa, dude! How old are you?”
     — https://www.shlomifish.org/humour/bits/facts/Emma-Watson/
@@ -2700,7 +2700,7 @@ Oh well, some people learn faster than others.
     — Vincent Price on The Muppet Show
     — https://www.youtube.com/watch?v=lQALLGsn-Fk
 %
-Sam the Eagle: You, sir, are a sick, degenerate, demented, barbaric, naughty…
+Sam the Eagle: You, sir, are a demented, sick, degenerate, barbaric, naughty…
 freako!
 Alice Cooper: why, thank you!
     — https://www.youtube.com/watch?v=KNYI3iINXrQ
@@ -2742,3 +2742,21 @@ Today I told my father: “I will go for a walk now, before it will be later”.
 <baum>: if you are judging a source control solution by its company and years
 of existence, maybe check out Visual SourceSafe :)
     ­— ##programming
+%
+If the Hare in the "Tortoise and the Hare" was pitted against Windows Update,
+he could have taken a two weeks-long vacation in the Caribbean and still win.
+    — https://www.shlomifish.org/humour/bits/facts/Windows-Update/
+%
+If the human brain were so simple that we could understand it, we would be so
+simple we couldn’t.
+    — Unknown Source (via fortune-mod).
+%
+Think you're really righteous? Think you're pure in heart?
+Well, I know I'm a million times as humble as thou art!
+    — https://genius.com/Weird-al-yankovic-amish-paradise-lyrics
+%
+* Meskimen's Law: There's never time to do it right, but there's always time to
+do it over.
+* If you don't have time to do it right, where are you going to find the time
+to do it over?
+    — Unknown Source (via fortune-mod).
