@@ -919,7 +919,7 @@ The NSA headquarters are the unhappiest place on Earth.
 Yogurt: “Never overestimate the power of the NSA.”
     — https://www.shlomifish.org/humour/bits/facts/NSA/
 %
-The gods help them that help themselves. ( Aesop )
+The gods help them that help themselves. ( Ancient Greek Idiom )
 %
 If the mountain will not come to Muhammad, then Muhammad will go to the
 mountain.  — Francis Bacon
@@ -2769,3 +2769,8 @@ to do it over?
 %
 You divorce wives, not children.
     — https://en.wikipedia.org/wiki/Clueless
+%
+I am not saying that every piece of code should be rewritten every 6 months,
+but in my understanding “If it ain't broke, don't fix it” actually translates
+to “Let's wait till it breaks and then panic”.
+https://szabgab.com/what-does--if-it-aint-broke-dont-fix-it--really-mean
