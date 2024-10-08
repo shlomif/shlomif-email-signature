@@ -2774,3 +2774,8 @@ I am not saying that every piece of code should be rewritten every 6 months,
 but in my understanding “If it ain't broke, don't fix it” actually translates
 to “Let's wait till it breaks and then panic”.
 https://szabgab.com/what-does--if-it-aint-broke-dont-fix-it--really-mean
+%
+<bandali>  rindolf, ah… I'm sure dealing with npm isn't fun :-)
+<rindolf>  bandali: it wasn't npm's fault this time, but yes
+<bandali>  haha, it's *always* npm's fault ;-)
+    — #gnu conversation, https://is.gd/CjRLIl
