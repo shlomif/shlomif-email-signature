@@ -2779,3 +2779,7 @@ https://szabgab.com/what-does--if-it-aint-broke-dont-fix-it--really-mean
 <rindolf>  bandali: it wasn't npm's fault this time, but yes
 <bandali>  haha, it's *always* npm's fault ;-)
     — #gnu conversation, https://is.gd/CjRLIl
+%
+Things will always go wrong, even if they cannot.
+
+https://en.wikipedia.org/wiki/Murphy%27s_law
