@@ -2793,7 +2793,7 @@ We all heard this story many times. There is nothing new under the sun.
 %
 <oft_gegong> I don’t go to wikipedia links. The owner of wikipedia is 98% evil
    <rindolf> oft_gegong: I am 101% evil.
-   <rindolf> oft_gegong: I once was 102% evilm but I donated 1% out of that to
+   <rindolf> oft_gegong: I once was 102% evil, but I donated 1% out of that to
              people in need ;)
     — ##linux , https://is.gd/avKGX7
 %
@@ -2801,3 +2801,7 @@ Genetically-speaking, Christina Grimmie isn’t my daughter, but my father's
 brother's nephew's cousin's former roommate's ex-step-2nd-niece-in-law. ;)
 
 Spiritually and intellectually, she-and-I are family.
+%
+The opposite of a correct statement is a false statement. But the opposite of a
+profound truth may well be another profound truth.
+    — https://en.wikiquote.org/wiki/Niels_Bohr
